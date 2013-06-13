@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Testing"
+date: 2013-06-13 08:41
+comments: false
+categories: blogging
+---
+
+This is a main header
+=====================
+
+This is a test post.
+
+```r
+a <- c(1,2,3,4,5)
+b <- c(2,3,4,5,6)
+a + b
+```
+
+
