@@ -247,6 +247,8 @@ American Society for Information Science & Technology (ASIS&T), 2009-present
 
 Association for Library & Information Science Education (ALISE), 2009-present
 
+* Member, Centennial Committee, ALISE, 2013 -
+
 * Chair, Award for Professional Contribution to Library and Information
 Science, ALISE, 2013 - 2014
 
