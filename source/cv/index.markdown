@@ -70,9 +70,9 @@ Stephens Library, Stephens College
 **Burns**, C. S. (Submitted). What is a librarian? A historical reflection
 on Ralph Halstead Parker and the genesis of library automation.
 
-Adkins, D., & **Burns**, C. S. (Accepted). Arizona public libraries
-serving the Spanish-speaking: Context for changes. Reference and User
-Services Quarterly.
+Adkins, D., & **Burns**, C. S. (Forthcoming). Arizona public
+libraries serving the Spanish-speaking: Context for changes.
+Reference and User Services Quarterly.
 
 Moulaison, H., & **Burns**, C. S. (2012). Organization or conversation
 in Twitter: A case study of chatterboxing. Proceedings of the American
@@ -230,7 +230,7 @@ ISLT 7313: Managing Collections and Access, with Dr. John M. Budd, Spring 2011
 ISLT 7350: Foundations of Library and Information Science, with Dr. Linda Esser, Summer 2009  
 ISLT 9410: Seminar: Metadata, with Dr. Heather Moulaison, Spring 2013  
 ISLT 9410: Seminar: Social Constructs of Information, with Dr. Melanie Brooks, Spring 2010  
-ISLT 9412: Information Storage and Retrieval, with Dr. Thomas Kochtanek, Spring 2010; Spring 2011  
+ISLT 9412: Information Storage and Retrieval, with Dr. Thomas Kochtanek, Spring 2010/11
 ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010  
 
 ## SERVICE
@@ -247,7 +247,7 @@ American Society for Information Science & Technology (ASIS&T), 2009-present
 
 Association for Library & Information Science Education (ALISE), 2009-present
 
-* Member, Centennial Committee, ALISE, 2013 -
+* Member, Centennial Celebration Committee, ALISE, 2013 - Present
 
 * Chair, Award for Professional Contribution to Library and Information
 Science, ALISE, 2013 - 2014

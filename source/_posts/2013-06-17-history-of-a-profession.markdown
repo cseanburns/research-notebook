@@ -38,31 +38,36 @@ Affairs Press.
 
 [1]: http://www.citeulike.org/user/seancsb/article/12422162
 
+Bush, Vannevar. (1970). [Pieces of the Action][2]. New York:
+Morrow.
+
+[2]: http://www.citeulike.org/user/seancsb/article/12438768
+
 Farkas-Conn, I. S. (1990). [From Documentation to Information
 Science: The Beginnings and Early Development of the American
 Documentation Institute - American Society for Information
-Science][2]. New York: Greenwood Press.
+Science][3]. New York: Greenwood Press.
 
-[2]: http://www.citeulike.org/user/seancsb/article/12357391
+[3]: http://www.citeulike.org/user/seancsb/article/12357391
 
 Hamlin, Arthur T. (1981). [The University Library in the United
-States: Its Origins and Development][3]. Philadelphia: University
+States: Its Origins and Development][4]. Philadelphia: University
 of Pennsylvania Press.
 
-[3]: http://www.citeulike.org/user/seancsb/article/12128054
+[4]: http://www.citeulike.org/user/seancsb/article/12128054
 
 Price, Derek J. De Solla. (1986). [Little Science, Big
-Science...and Beyond][4]. Columbia: Columbia University Press.
+Science...and Beyond][5]. Columbia: Columbia University Press.
 
-[4]: http://www.citeulike.org/user/seancsb/article/6106458
+[5]: http://www.citeulike.org/user/seancsb/article/6106458
 
 Shiflett, Orvin L. (1981). [Origins of American Academic
-Librarianship][5]. Norwood, NJ: Ablex Publishing Co. 
+Librarianship][6]. Norwood, NJ: Ablex Publishing Co. 
 
-[5]: http://www.citeulike.org/user/seancsb/article/12128074
+[6]: http://www.citeulike.org/user/seancsb/article/12128074
 
 Williams, R. V., & Lipetz, Ben-Ami. (Eds.). (2005). [Covert and
 Overt: Recollecting and Connecting Intelligence Service and
-Information Science][6]. Medford, NJ: Information Today.
+Information Science][7]. Medford, NJ: Information Today.
 
-[6]: http://www.citeulike.org/user/seancsb/article/12357391
+[7]: http://www.citeulike.org/user/seancsb/article/12357391
