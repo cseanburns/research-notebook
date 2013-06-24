@@ -29,7 +29,7 @@ outlines how to do this with salaries at the University of
 Missouri and is based on the University of Missouri personnel
 information provided by the Missouri Secretary of State's office,
 the code and process below cannot necessarily be generalized to
-other university's. Each state most likely provides its public
+other universities. Each state most likely provides its public
 information in different formats, although I haven't examined
 this. This post primarily serves as a note to self. Most of what
 is done in Vim below may eventually be automated with sed and / or
@@ -37,7 +37,8 @@ awk. But this is an exploration and Vim provides a nice interface
 for this. 
 
 Start by downloading the PDF document with University of Missouri
-personnel information for the 2011 - 2012 year.
+personnel information for the 2011 - 2012 year, the latest
+available data at the time of this writing.
 
     $ wget http://www.sos.mo.gov/BlueBook/2011-2012/10_Personnel.pdf#personnel
 
@@ -45,8 +46,8 @@ This document contains name, position, and salary information.
 Although it is organized as Last Name, First Name, Position, and
 Salary, the fields are not so neat. Some persons have more than
 one position or title and some individual names are more than two
-words long. So this file will require some cleaning up before it
-can be analyzed. Also, I will eventually remove the first and last
+words long. So this file will require some cleaning before it can
+be analyzed. Also, I will eventually remove the first and last
 names from the file as they are not needed.
 
 First, convert the downloaded PDF to a text file. In this file,
@@ -66,13 +67,14 @@ the top of the document (i.e., the text is: University of
 Missouri, Columbia 65211).
 
 The pdftotext command makes a good attempt at making a 1 to 1 copy
-of the PDF file and so the converted text file has page numbers
-and page headers in it. These are on their own lines. The page
-numbers begin with a ^L (control L character). In Vim, remove
-these control characters and page numbers with the following code.
-Note that I start the substitution with a caret ^ key, which
-indicates the beginning of a line, and then press *CONTROL-V
-CONTROL-L* in order to enter the *^L* character in the
+of the PDF file (but fortunately, it collapses the multi-column
+PDF into a single column text file) and so the converted text file
+has page numbers and page headers in it. These are on their own
+lines. The page numbers begin with a ^L (control L character). In
+Vim, remove these control characters and page numbers with the
+following code. Note that I start the substitution with a caret ^
+key, which indicates the beginning of a line, and then press
+*CONTROL-V CONTROL-L* in order to enter the *^L* character in the
 substitution string.
 
     :%s/^^V^L[0-9][0-9][0-9]//g
@@ -103,9 +105,10 @@ case letter. This search and replace has to be done manually
 because I'm not yet sure if there's any regularity to this. For
 example, some last names begin with a lower case letter, such as
 those beginning with *van*. But I'm not sure if all these lines
-indicate a last name that begins with a lower case letter. In the
-Vim code below, the *^\l* searches for all lines that begin with a
-lower case letter.
+indicate a last name that begins with a lower case letter. Nor do
+I know how to write the kind of code that could automate *backing
+up a line*. In any case, the Vim code below, the *^\l* searches
+for all lines that begin with a lower case letter.
 
     /^\l
 
@@ -115,7 +118,7 @@ a new copy that I save as a comma separated value file (CSV).
     $ cp personnel.txt personnel.csv
 
 There's still some cleaning up to do. The end game is to have a
-two column file with positions in the first column and salaries in
+two column file with Positions in the first column and Salaries in
 the second column, and so I need to discard the first and last
 name columns. I do this in a roundabout way.
 
@@ -147,29 +150,28 @@ name:
     :%s/^[^\t]*\t//
 
 And I repeat these last two commands in order to remove the field
-with the first names, which has been moved to the first field.
-
-Repeating code, I replace first occurrence of a space with a tab
-and remove new first column:
+with the first names, which has been moved to the first field. So,
+repeating the above code, I replace the first occurrence of a
+space with a tab and remove the new first column:
 
     :%s/ /\t/
     :%s/^[^\t]*\t//
 
-Finally, I add quotes around the position field, which is a text
+Finally, I add quotes around the Position field, which is a text
 field. This isn't strictly necessary, but it helps to mark it:
 
     %s/^/"/
     %s/,/",/
 
-Now, all that is left is a comma delimited file with position in
-the first column and salary in the second column. I add a header for
+Now, all that is left is a comma delimited file with Position in
+the first column and Salary in the second column. I add a header for
 this file (Position, Salary) and import into R for analysis.
 
 Note: After I imported the file into RStudio, I found that the
-salary column was recognized as a factor data type instead of a
+Salary column was recognized as a factor data type instead of a
 numeric data type. Based on previous experience, I knew this meant
-something was wrong with this column. So I converted it to a
-numeric data type and R notified me that the coercion resulted in
+something was wrong with this column. When I converted it to a
+numeric data type, R notified me that the coercion resulted in
 some NAs. I located one NA at line 5900 and opened the CSV file in
 Vim and found that it was a line that carried over to the next. It
 seems I had missed one line from the cleaning process. I fixed it
@@ -178,8 +180,8 @@ numeric data type. And the analysis can begin.
 
 The analysis won't be straightforward until I can determine if
 there's any regularity to how higher administration titles are
-named. But it's trivial to get some quick information from the
-data.
+named or what all the administration titles are. But it's trivial
+to get some quick information from the data.
 
 First, I can see how many people are employed by MU:
 
