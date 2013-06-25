@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "technology and alternate publication"
+title: "technology and alternate publishing"
 date: 2013-06-24 12:20
 comments: true
 categories: [scholarly communication, documentation, lis-history]
