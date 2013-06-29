@@ -23,22 +23,25 @@ information science ethics, history, research methods
 
 ### University of Missouri, Columbia, Missouri
 
-Ph.D., Information Science & Learning Technologies, Emphasis in Library and Information Science, Supporting Field in Philosophy, May 2013
+Ph.D., Information Science &amp; Learning Technologies, Emphasis
+in Library and Information Science, Supporting Field in
+Philosophy, May 2013
 
-* Dissertation: Free or Open Access to Scholarly Documentation: Google
-Scholar or Academic Libraries
+- Dissertation: Free or Open Access to Scholarly Documentation:
+Google Scholar or Academic Libraries  
 
-* Advisor: John M. Budd
+- Advisor: John M. Budd  
 
-* Beta Phi Mu: Eugene Garfield Doctoral Dissertation Fellowship, 2012
+- Beta Phi Mu: Eugene Garfield Doctoral Dissertation Fellowship,
+2012  
 
-M.A., Information Science & Learning Technologies, Emphasis Library Science, ALA Accredited, May 2009
+M.A., Information Science &amp; Learning Technologies, Emphasis Library Science, ALA Accredited, May 2009
 
 ### Monmouth College, Monmouth, Illinois
 
-B.A., Philosophy & Religious Studies, English, May 1996
+B.A., Philosophy &amp; Religious Studies, English, May 1996
 
-* Graduated Cum Laude, Honors in Philosophy & Religious Studies
+- Graduated Cum Laude, Honors in Philosophy &amp; Religious Studies
 
 ## EXPERIENCE
 
@@ -70,17 +73,17 @@ Stephens Library, Stephens College
 **Burns**, C. S. (Submitted). What is a librarian? A historical reflection
 on Ralph Halstead Parker and the genesis of library automation.
 
-Adkins, D., & **Burns**, C. S. (Forthcoming). Arizona public
+Adkins, D., &amp; **Burns**, C. S. (Forthcoming). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
 Reference and User Services Quarterly.
 
-Moulaison, H., & **Burns**, C. S. (2012). Organization or conversation
+Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or conversation
 in Twitter: A case study of chatterboxing. Proceedings of the American
-Society for Information Science & Technology, 49(1), 1-11.
+Society for Information Science &amp; Technology, 49(1), 1-11.
 http://dx.doi.org/10.1002/meet.14504901185 or
 http://asis.org/asist2012/proceedings/Submissions/185.pdf
 
-**Burns**, C. S. & Bossaller, J. (2012). Communication overload: A
+**Burns**, C. S. &amp; Bossaller, J. (2012). Communication overload: A
 phenomenological inquiry into academic reference librarianship.  Journal
 of Documentation, 68(5), 597-617.
 http://dx.doi.org/10.1108/00220411211255996; Post-print:
@@ -90,58 +93,60 @@ http://hdl.handle.net/10355/15760
 with free and open source software. Information, Society and Justice,
 4(2), 19-28. http://goo.gl/4AaDS.
 
-Smith, C., & **Burns**, C. S. (2011). The First International Workshop
+Smith, C., &amp; **Burns**, C. S. (2011). The First International Workshop
 on Opportunistic Discovery of Information. Information Research: An
 International Electronic Journal, 16(3). Available from
 http://informationr.net/ir/16-3/paper490.html.
 
-Chen, H., Kochtanek, T., **Burns**, C., & Shaw, R. (2010). Analyzing
+Chen, H., Kochtanek, T., **Burns**, C., &amp; Shaw, R. (2010). Analyzing
 users' retrieval behaviors and image queries of a photojournalism image
 database. The Canadian Journal of Information and Library Science,
 34(3), 249-268. http://dx.doi.org/10.1353/ils.2010.0003  
 
 ### Moderated Journal Articles
 
-**Burns**, C. S., Lana, A., & Budd, J. M. (January/February 2013).
-Institutional repositories: Exploration of costs and value. D-Lib
-Magazine, 19(1/2). http://dx.doi.org/10.1045/january2013-burns 
+**Burns**, C. S., Lana, A., &amp; Budd, J. M. (January/February
+2013). Institutional repositories: Exploration of costs and value.
+D-Lib Magazine, 19(1/2).
+http://dx.doi.org/10.1045/january2013-burns 
 
 ### Other Professional Publications
 
-Adkins, D., & **Burns**, C. S. (2011, December 15). How do Arizona's
-public libraries serve the Spanish-speaking? REFORMA Newsletter.
-Available from
-http://www.reforma.org/article_content.asp?edition=2&section=1&article=36  
+Adkins, D., &amp; **Burns**, C. S. (2011, December 15). How do
+Arizona's public libraries serve the Spanish-speaking? REFORMA
+Newsletter. Available from
+http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36  
 
 ### Technical Reports
 
-Kochtanek, T. R., **Burns**, S., Erdelez, S., & Borwick, J. (2008,
-February 29). A qualitative assessment of the MoDOT Web site: Final
-report. Missouri Department of Transportation, Project #RI07-040  
+Kochtanek, T. R., **Burns**, S., Erdelez, S., &amp; Borwick, J.
+(2008, February 29). A qualitative assessment of the MoDOT Web
+site: Final report. Missouri Department of Transportation, Project #RI07-040  
 
 ## PRESENTATIONS
 
 ### Refereed Conference Abstracts
 
-**Burns**, C. S., Lana, A., & Budd, J. M. (2012). Institutional
-repositories: Costs and benefits. 40th Annual Conference of the Canadian
-Association for Information Science (CAIS), Waterloo, Ontario, Canada,
-May - June, 2012.
+**Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012).
+Institutional repositories: Costs and benefits. 40th Annual
+Conference of the Canadian Association for Information Science
+(CAIS), Waterloo, Ontario, Canada, May - June, 2012.
 http://www.cais-acsi.ca/proceedings/2012/caisacsi2012_10_burns.pdf
 
-**Burns**, C. S., & Altman, M. C. (2012). Who or what is constrained by
-the Library Bill of Rights? A theoretical analysis of intentionality and
-collective action for library and information science. 2012 Association
-for Library and Information Science Education (ALISE) Annual Conference,
-Dallas, Texas, USA, January, 2012.
+**Burns**, C. S., &amp; Altman, M. C. (2012). Who or what is
+constrained by the Library Bill of Rights? A theoretical analysis
+of intentionality and collective action for library and
+information science. 2012 Association for Library and Information
+Science Education (ALISE) Annual Conference, Dallas, Texas, USA,
+January, 2012.
 http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf
 
-**Burns**, C. S., & Bossaller, J. (2011). Experiencing communication
-overload: A phenomenological study of academic reference librarians at
-research universities. The Library Research Round Table's (LRRT) Four
-Star Research Forum at the 2011 American Library Association (ALA)
-Annual Conference and Exhibition, New Orleans, Louisiana, USA, June
-2011.
+**Burns**, C. S., &amp; Bossaller, J. (2011). Experiencing
+communication overload: A phenomenological study of academic
+reference librarians at research universities. The Library
+Research Round Table's (LRRT) Four Star Research Forum at the 2011
+American Library Association (ALA) Annual Conference and
+Exhibition, New Orleans, Louisiana, USA, June 2011.
 
 **Burns**, C. S. (2011). Collecting bibliographic references: A
 bibliometric analysis of CiteULike's collection as grounds for in-depth
@@ -156,16 +161,17 @@ Presentation at the 2011 Association for Library and Information Science
 Education (ALISE) Annual Conference, San Diego, California, USA,
 January, 2011.
 
-**Burns**, C. S. (2010). Measuring preferences & finding best
-strategies: A game theoretical approach to a historical investigation of
-an academic library. Library Research Seminar V (LRS V), College Park,
-Maryland, USA, October, 2010.
+**Burns**, C. S. (2010). Measuring preferences &amp; finding best
+strategies: A game theoretical approach to a historical
+investigation of an academic library. Library Research Seminar V
+(LRS V), College Park, Maryland, USA, October, 2010.
 http://www.lrsv.umd.edu/abstracts/Burns.pdf
 
-Sample, A., **Burns**, C. S., & Budd, J. M. (2010). Exploring
-intentional information evaluation: Students' assessment of complex
-issues.  Library Research Seminar V (LRS V), College Park, Maryland,
-USA, October, 2010. http://www.lrsv.umd.edu/abstracts/Budd.pdf
+Sample, A., **Burns**, C. S., &amp; Budd, J. M. (2010). Exploring
+intentional information evaluation: Students' assessment of
+complex issues.  Library Research Seminar V (LRS V), College Park,
+Maryland, USA, October, 2010.
+http://www.lrsv.umd.edu/abstracts/Budd.pdf
 
 **Burns**, C. S. (2010). An analysis of bibliographic references
 collected by a social computing group. Connections 2010, London,
@@ -177,11 +183,12 @@ http://ir.lib.uwo.ca/connections/May15/Presentations/3
 **Burns**, C. S. (2012). Statistical phenomenology ... of the couch ....
 SIG CON at ASIST 2012
 
-Richardson, B., **Burns**, C. S., Stewart, K., & Vogler, R. (2011).
-Challenges to funding in U.S. public libraries. Transforming Lives
-Conference: A UK & US Dialogue on the Value of Information and Public
-Libraries, Barking Learning Centre, London Borough of Barking &
-Dagenham, United Kingdom, August, 2011  
+Richardson, B., **Burns**, C. S., Stewart, K., &amp; Vogler, R.
+(2011). Challenges to funding in U.S. public libraries.
+Transforming Lives Conference: A UK &amp; US Dialogue on the Value
+of Information and Public Libraries, Barking Learning Centre,
+London Borough of Barking &amp; Dagenham, United Kingdom, August,
+2011  
 
 ### Invited Talks
 
@@ -204,12 +211,13 @@ session presented at the 2010 Association for Library and Information
 Science Education (ALISE) Annual Conference, Boston, Massachusetts, USA,
 January, 2010
 
-Chen, H., Kochtanek, T., & **Burns**, C. (2009). An analysis of users'
-image queries of a photojournalism image database: A Web analytics
-approach. Poster session presented at the 72nd American Society for
-Information Science and Technology (ASIS&T). Abstract in the Proceedings
-of the American Society for Information Science and Technology, 46(1),
-1-5. doi:10.1002/meet.2009.1450460359  
+Chen, H., Kochtanek, T., &amp; **Burns**, C. (2009). An analysis
+of users' image queries of a photojournalism image database: A Web
+analytics approach. Poster session presented at the 72nd American
+Society for Information Science and Technology (ASIS&amp;T).
+Abstract in the Proceedings of the American Society for
+Information Science and Technology, 46(1), 1-5.
+doi:10.1002/meet.2009.1450460359  
 
 ## TEACHING
 
@@ -241,38 +249,40 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 American Library Association (ALA), 2008-present
 
-American Society for Information Science & Technology (ASIS&T), 2009-present
+American Society for Information Science &amp; Technology
+(ASIS&amp;T), 2009 -- Present  
 
-* Membership Officer, SIG-MET, ASIS&T, 2013-2014
+- Membership Officer, SIG-MET, ASIS&amp;T, 2013 -- Present
 
-Association for Library & Information Science Education (ALISE), 2009-present
+Association for Library &amp; Information Science Education
+(ALISE), 2009 -- Present  
 
-* Member, Centennial Celebration Committee, ALISE, 2013 - Present
+- Member, Centennial Celebration Committee, ALISE, 2013 -- Present   
 
-* Chair, Award for Professional Contribution to Library and Information
-Science, ALISE, 2013 - 2014
+- Chair, Award for Professional Contribution to Library and Information
+Science, ALISE, 2013 -- Present  
 
-* Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
-Group, ALISE, 2013 - 2014
+- Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
+Group, ALISE, 2013 -- Present  
 
-* Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
-Group, ALISE, 2012 - 2013
+- Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
+Group, ALISE, 2012 -- 2013  
 
-* Member, Award for Professional Contribution to Library and Information
-Science, 2012 - 2013
+- Member, Award for Professional Contribution to Library and Information
+Science, 2012 -- 2013  
 
-Canadian Association for Information Science (CAIS), 2010-present  
+Canadian Association for Information Science (CAIS), 2010 -- 2013  
 
 ### Peer Reviewer
 
-Library Student Journal, 2009-2011  
+Library Student Journal, 2009 -- 2011  
 
 ### University Service
 
 #### Associations
 
-Secretary and Web master, Library & Information Science Graduate Student
-Association, 2008-2009  
+Secretary and Web master, Library &amp; Information Science
+Graduate Student Association, 2008 -- 2009  
 
 ## SCHOLARSHIPS & AWARDS
 
@@ -285,28 +295,30 @@ Eugene Garfield Doctoral Dissertation Fellowship - Beta Phi Mu, 2012
 TA Choice Award, Awarded by the Missouri Students Association of the
 University of Missouri, Spring 2013
 
-C. Edward & Greta S. Carroll School of Information Science & Learning
-Technologies Unrestricted Endowment, Awarded by the University of
-Missouri College of Education, 2012-2013
+C. Edward &amp; Greta S. Carroll School of Information Science
+&amp; Learning Technologies Unrestricted Endowment, Awarded by the
+University of Missouri College of Education, 2012 -- 2013
 
 Doris J. Athy Scholarship, Awarded by the University of Missouri,
-College of Education, 2011-2012
+College of Education, 2011 -- 2012
 
 H.W. Wilson Foundation / Library Science Development Scholarship,
-Awarded by the University of Missouri College of Education, 2009-2010
+Awarded by the University of Missouri College of Education, 2009
+-- 2010
 
-Technology & Industry Education Scholarship Fund, Awarded by the
-University of Missouri College of Education, 2009-2010
+Technology &amp; Industry Education Scholarship Fund, Awarded by
+the University of Missouri College of Education, 2009 -- 2010
 
 H.W. Wilson Foundation / Library Science Development Scholarship,
-Awarded by the University of Missouri College of Education, 2008-2009
+Awarded by the University of Missouri College of Education, 2008
+-- 2009
 
-Bryce Allen Memorial Scholarship, Awarded by the University of Missouri
-College of Education, 2008-2009
+Bryce Allen Memorial Scholarship, Awarded by the University of
+Missouri College of Education, 2008 -- 2009
 
-C. Edward & Greta S. Carroll School of Information Science & Learning
-Technologies Unrestricted Endowment, Awarded by the University of
-Missouri College of Education, 2008-2009
+C. Edward &amp; Greta S. Carroll School of Information Science
+&amp; Learning Technologies Unrestricted Endowment, Awarded by the
+University of Missouri College of Education, 2008 -- 2009
 
-Bryce Allen Memorial Scholarship, Awarded by the University of Missouri
-College of Education, 2007-2008  
+Bryce Allen Memorial Scholarship, Awarded by the University of
+Missouri College of Education, 2007 -- 2008  
