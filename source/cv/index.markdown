@@ -127,6 +127,11 @@ site: Final report. Missouri Department of Transportation, Project #RI07-040
 
 ### Refereed Conference Abstracts
 
+Budd, J. M., **Burns**, C. S., &amp; Moulaison, H. M. (2013,
+*Forthcoming*). High-stakes information: Deciding what constitutes
+quality in our products of communication. Proceedings of the
+Association for Information Science &amp; Technology.
+
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012).
 Institutional repositories: Costs and benefits. 40th Annual
 Conference of the Canadian Association for Information Science
@@ -180,8 +185,8 @@ http://ir.lib.uwo.ca/connections/May15/Presentations/3
 
 ### Other Conference Presentations
 
-**Burns**, C. S. (2012). Statistical phenomenology ... of the couch ....
-SIG CON at ASIST 2012
+**Burns**, C. S. (2012). Statistical phenomenology ... of the
+couch .... SIG CON at ASIS&amp;T 2012
 
 Richardson, B., **Burns**, C. S., Stewart, K., &amp; Vogler, R.
 (2011). Challenges to funding in U.S. public libraries.
@@ -247,15 +252,15 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 #### Memberships
 
-American Library Association (ALA), 2008-present
+*American Library Association (ALA), 2008-present*  
 
-American Society for Information Science &amp; Technology
-(ASIS&amp;T), 2009 -- Present  
+*American Society for Information Science &amp; Technology
+(ASIS&amp;T), 2009 -- Present*  
 
 - Membership Officer, SIG-MET, ASIS&amp;T, 2013 -- Present
 
-Association for Library &amp; Information Science Education
-(ALISE), 2009 -- Present  
+*Association for Library &amp; Information Science Education
+(ALISE), 2009 -- Present*  
 
 - Member, Centennial Celebration Committee, ALISE, 2013 -- Present   
 
@@ -271,7 +276,7 @@ Group, ALISE, 2012 -- 2013
 - Member, Award for Professional Contribution to Library and Information
 Science, 2012 -- 2013  
 
-Canadian Association for Information Science (CAIS), 2010 -- 2013  
+*Canadian Association for Information Science (CAIS), 2010 -- 2013*  
 
 ### Peer Reviewer
 
