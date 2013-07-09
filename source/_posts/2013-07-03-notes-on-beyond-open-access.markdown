@@ -12,8 +12,8 @@ relation to scholarly communication, in particular:
 Tatum, C., &amp; Jankowski, N. W. (2013). Beyond open access: A
 framework for openness in scholarly communication. In P. Wouters,
 A. Beaulieu, A. Scharnhorst, &amp; S. Wyatt (Eds.), [Virtual
-Knowledge: Experimenting in the Humanities and the social
-sciences](http://www.worldcat.org/oclc/792941486) (pp. 183--218).
+Knowledge: Experimenting in the Humanities and the Social
+Sciences](http://www.worldcat.org/oclc/792941486) (pp. 183--218).
 Cambridge: MIT Press.
 
 Some notes:  
