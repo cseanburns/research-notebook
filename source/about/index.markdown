@@ -23,4 +23,10 @@ make minor and major revisions to specific posts after they have
 been pushed to the site. All revisions are hosted on [GitHub][1],
 where past instances of a post or page may be viewed.
 
+I'm in the process of evaluating whether I want to add a
+commenting system to this site (e.g., disqus), and if so, which
+commenting system. In the meantime, if you would like to respond
+to any of my posts, please feel free to email me
+(sean.burns@uky.edu) or ping me on twitter (@burnscsb).
+
 [1]: http://github.com/seancsb/research-notebook
