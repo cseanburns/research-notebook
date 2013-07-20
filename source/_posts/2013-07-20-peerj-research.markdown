@@ -30,7 +30,7 @@ the time of data collection. See details in Step 3 below.
 
 Take a random sample of 30 articles.
 
-Total population = 108
+Total population = 108  
 Total sample size = 30
 
 [Random.org](http://www.random.org/) | [Random Integer Set
@@ -159,7 +159,7 @@ the metadata collection step from Step 4.
 After I collected the data: Examining peer review history trends
 again, now with 49 articles in the sample:
 
-    For the first half of the sample:
+For the first half of the sample:
 
     table(pj$PeerRevAvail[1:25])
 
