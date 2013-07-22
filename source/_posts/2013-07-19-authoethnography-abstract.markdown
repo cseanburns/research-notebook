@@ -30,7 +30,7 @@ Journals section, para 3, Schaffner, 1994), and this has been true
 for the field we now call library and information science (LIS).
 
 In LIS, the journal has played an important role in identity
-formation since the founding of the Library Journal (1876).
+formation since the founding of the *Library Journal* (1876).
 Approximately 55 years later, the founding of several scholarly
 and technical journals, including *The Library Quarterly* (1931),
 the *Journal of Documentary Reproduction* (1938), which would

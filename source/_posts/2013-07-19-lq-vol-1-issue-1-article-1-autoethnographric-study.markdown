@@ -381,3 +381,9 @@ this first issue in order to see if there is something coherent
 about it as a whole. This is important to one of the purposes of
 this research project --- to understand the nature of the journal
 as a collective thing (a one).
+
+**Reflection**: The discussion about whether *library science* is
+a science is interesting, in the sense that it's similar to a
+discussion that still sometimes happens today, about whether
+*information science* is a science. Will we still be having this
+discussion in another 80 years, in 2090?
