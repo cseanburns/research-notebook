@@ -155,3 +155,47 @@ the identity of our field of study. Again, I refer to my
 [3]: http://sweb.uky.edu/~csbu225/blog/2013/07/22/lq-vol-1-issue-1-article-3-autoethnographic-study/
 
 [4]: http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/
+
+**Note:** As I was reviewing my notes, and re-read the line that
+follows, something occurred to me:
+
+> the librarian can ultimately contribute to the advance of
+> scholarship and hence to the welfare of society
+
+If this piece had been written today, I'm fairly sure that the
+word "libraries" would have been used instead of the word
+"librarian." So the above line, and others like it, if written
+today, I imagine, would have read like so:
+
+> *libraries* can ultimately contribute to the advance of
+> scholarship and hence to the welfare of society
+
+Plutchak has written on this tendency to substitute (see reference
+below) librarians for libraries. I have a conference presentation
+on this too (see reference below).
+
+Plutchak, T. S. (2012). Breaking the barriers of time and space:
+the dawning of the great age of librarians. Journal of the Medical
+Library Association, 100 (1), 10-19.
+DOI:[10.3163/1536-5050.100.1.004](http://dx.doi.org/10.3163/1536-5050.100.1.004)
+
+Burns, C. S., &amp; Altman, M. C. (2012). Who or what is constrained
+by the Library Bill of Rights? A theoretical analysis of
+intentionality and collective action for library and information
+science. 2012 Association for Library and Information Science
+Education (ALISE) Annual Conference, Dallas, Texas, USA, January,
+2012.
+[Abstract](http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf)
+
+The latter piece is related to this ongoing work:
+
+[http://sweb.uky.edu/~csbu225/blog/2013/06/13/collective-responsibility-ethics-paper/](http://sweb.uky.edu/~csbu225/blog/2013/06/13/collective-responsibility-ethics-paper/)
+
+So, I will incorporate this into our ethics research project. The
+question to incorporate is: when did the field begin assigning
+agency, responsibility, praise, action, and so forth to
+**libraries** instead of to **librarians**. Of course, one article
+does not make a trend, but I'm curious if there is something to
+this. (How I'd incorporate that into an ethics research project
+means changing the ethics research project a bit. Which is fine
+because that project is a bit stalled and needs something.)
