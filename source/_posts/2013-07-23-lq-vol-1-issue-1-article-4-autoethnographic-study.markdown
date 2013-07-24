@@ -108,7 +108,7 @@ that:
 
 > We are just beginning at Chicago to find out what elements of
 > other University departments and disciplines pertain to library
-> problems. The extend of such application is obviously great, far
+> problems. The extent of such application is obviously great, far
 > greater than we can ever hope to evaluate precisely. But various
 > other fields of study have already been identified as capable of
 > yielding laws, facts, and methods of investigation from which a
@@ -155,6 +155,8 @@ the identity of our field of study. Again, I refer to my
 [3]: http://sweb.uky.edu/~csbu225/blog/2013/07/22/lq-vol-1-issue-1-article-3-autoethnographic-study/
 
 [4]: http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/
+
+---
 
 **Note:** As I was reviewing my notes, and re-read the line that
 follows, something occurred to me:

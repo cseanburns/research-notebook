@@ -3,7 +3,7 @@ layout: post
 title: "Notes on 'Beyond Open Access'"
 date: 2013-07-03 18:07
 comments: true
-categories: [open access, scholarly communication]
+categories: [open access, scholarly communication, lit review]
 ---
 
 This is a very nice piece on the theory of open access, and in
