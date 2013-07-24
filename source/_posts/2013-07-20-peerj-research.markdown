@@ -11,6 +11,10 @@ working on and that will be presented, as part of a panel, at the
 next [ASIS&amp;T](http://asis.org/) conference in Montreal. More
 details about the project later.
 
+For upcoming notes and logs on this project, see:
+
+[http://sweb.uky.edu/~csbu225/blog/categories/peerj/](http://sweb.uky.edu/~csbu225/blog/categories/peerj/)
+
 ## PeerJ Sampling
 
 **Date of sampling: July 20, 2013**
@@ -136,7 +140,7 @@ For the second half of the sample:
     No  Yes
      3  12
 
-Fifteen peer review histories is not sufficient for my analysis.
+Sixteen peer review histories is not sufficient for my analysis.
 Since I want to perform an analysis of 30 articles, I will collect
 a second round of data by taking another random sample with
 replacement, using random.org. I'm sampling with replacement in
