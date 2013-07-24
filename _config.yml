@@ -16,7 +16,7 @@ description: A personal notebook and journal for research projects in library an
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /~csbu225/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: sean.burns@uky.edu
