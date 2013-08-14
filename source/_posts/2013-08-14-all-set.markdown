@@ -1,0 +1,9 @@
+---
+layout: post
+title: "All set"
+date: 2013-08-14 07:31
+comments: true
+categories: blogging 
+---
+
+Just a note: A brief hiatus due to a move to a new city to settle into my new position.
