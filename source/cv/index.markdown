@@ -77,45 +77,44 @@ Adkins, D., &amp; **Burns**, C. S. (Forthcoming). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
 Reference and User Services Quarterly.
 
-Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or conversation
-in Twitter: A case study of chatterboxing. Proceedings of the American
-Society for Information Science &amp; Technology, 49(1), 1-11.
-http://dx.doi.org/10.1002/meet.14504901185 or
-http://asis.org/asist2012/proceedings/Submissions/185.pdf
+Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
+conversation in Twitter: A case study of chatterboxing.
+Proceedings of the American Society for Information Science &amp;
+Technology, 49(1), 1-11. doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
+Conference site: [http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
 
-**Burns**, C. S. &amp; Bossaller, J. (2012). Communication overload: A
-phenomenological inquiry into academic reference librarianship.  Journal
-of Documentation, 68(5), 597-617.
-http://dx.doi.org/10.1108/00220411211255996; Post-print:
-http://hdl.handle.net/10355/15760
+**Burns**, C. S. &amp; Bossaller, J. (2012). Communication
+overload: A phenomenological inquiry into academic reference
+librarianship.  Journal of Documentation, 68(5), 597-617.
+doi:[10.1108/00220411211255996](http://dx.doi.org/10.1108/00220411211255996);
+Post-print: [http://hdl.handle.net/10355/15760](http://hdl.handle.net/10355/15760)
 
-**Burns**, C. S. (2011). Social justice and an information democracy
-with free and open source software. Information, Society and Justice,
-4(2), 19-28. http://goo.gl/4AaDS.
+**Burns**, C. S. (2011). Social justice and an information
+democracy with free and open source software. Information, Society
+and Justice, 4(2), 19-28. URL: [http://goo.gl/4AaDS](http://goo.gl/4AaDS).
 
-Smith, C., &amp; **Burns**, C. S. (2011). The First International Workshop
-on Opportunistic Discovery of Information. Information Research: An
-International Electronic Journal, 16(3). Available from
-http://informationr.net/ir/16-3/paper490.html.
+Smith, C., &amp; **Burns**, C. S. (2011). The First International
+Workshop on Opportunistic Discovery of Information. Information
+Research: An International Electronic Journal, 16(3). URL:
+[http://informationr.net/ir/16-3/paper490.html](http://informationr.net/ir/16-3/paper490.html).
 
-Chen, H., Kochtanek, T., **Burns**, C., &amp; Shaw, R. (2010). Analyzing
-users' retrieval behaviors and image queries of a photojournalism image
-database. The Canadian Journal of Information and Library Science,
-34(3), 249-268. http://dx.doi.org/10.1353/ils.2010.0003  
+Chen, H., Kochtanek, T., **Burns**, C., &amp; Shaw, R. (2010).
+Analyzing users' retrieval behaviors and image queries of a
+photojournalism image database. The Canadian Journal of
+Information and Library Science, 34(3), 249-268.
+doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
 
 ### Moderated Journal Articles
 
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (January/February
 2013). Institutional repositories: Exploration of costs and value.
-D-Lib Magazine, 19(1/2).
-http://dx.doi.org/10.1045/january2013-burns 
+D-Lib Magazine, 19(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
 
 ### Other Professional Publications
 
 Adkins, D., &amp; **Burns**, C. S. (2011, December 15). How do
 Arizona's public libraries serve the Spanish-speaking? REFORMA
-Newsletter. Available from
-http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36  
+Newsletter. URL: [http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36](http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36)  
 
 ### Technical Reports
 
@@ -136,7 +135,7 @@ Association for Information Science &amp; Technology.
 Institutional repositories: Costs and benefits. 40th Annual
 Conference of the Canadian Association for Information Science
 (CAIS), Waterloo, Ontario, Canada, May - June, 2012.
-http://www.cais-acsi.ca/proceedings/2012/caisacsi2012_10_burns.pdf
+URL: [http://www.cais-acsi.ca/proceedings/2012/caisacsi2012_10_burns.pdf](http://www.cais-acsi.ca/proceedings/2012/caisacsi2012_10_burns.pdf)
 
 **Burns**, C. S., &amp; Altman, M. C. (2012). Who or what is
 constrained by the Library Bill of Rights? A theoretical analysis
@@ -144,7 +143,7 @@ of intentionality and collective action for library and
 information science. 2012 Association for Library and Information
 Science Education (ALISE) Annual Conference, Dallas, Texas, USA,
 January, 2012.
-http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf
+URL: [http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf](http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf)
 
 **Burns**, C. S., &amp; Bossaller, J. (2011). Experiencing
 communication overload: A phenomenological study of academic
@@ -158,7 +157,7 @@ bibliometric analysis of CiteULike's collection as grounds for in-depth
 interviews. A Research Round Table presentation at the 39th Annual
 Conference of the Canadian Association for Information Science (CAIS),
 Fredericton, New Brunswick, Canada, June, 2011.
-http://www.cais-acsi.ca/proceedings/2011/74_burns.pdf
+URL: [http://www.cais-acsi.ca/proceedings/2011/74_burns.pdf](http://www.cais-acsi.ca/proceedings/2011/74_burns.pdf)
 
 **Burns**, C. S. (2011). Ralph H. Parker and the history of library
 automation. A Historical Perspectives Special Interest Group
@@ -170,18 +169,18 @@ January, 2011.
 strategies: A game theoretical approach to a historical
 investigation of an academic library. Library Research Seminar V
 (LRS V), College Park, Maryland, USA, October, 2010.
-http://www.lrsv.umd.edu/abstracts/Burns.pdf
+URL: [http://www.lrsv.umd.edu/abstracts/Burns.pdf](http://www.lrsv.umd.edu/abstracts/Burns.pdf)
 
 Sample, A., **Burns**, C. S., &amp; Budd, J. M. (2010). Exploring
 intentional information evaluation: Students' assessment of
 complex issues.  Library Research Seminar V (LRS V), College Park,
 Maryland, USA, October, 2010.
-http://www.lrsv.umd.edu/abstracts/Budd.pdf
+URL: [http://www.lrsv.umd.edu/abstracts/Budd.pdf](http://www.lrsv.umd.edu/abstracts/Budd.pdf)
 
 **Burns**, C. S. (2010). An analysis of bibliographic references
 collected by a social computing group. Connections 2010, London,
 Ontario, Canada, May, 2010.
-http://ir.lib.uwo.ca/connections/May15/Presentations/3  
+URL: [http://ir.lib.uwo.ca/connections/May15/Presentations/3](http://ir.lib.uwo.ca/connections/May15/Presentations/3)  
 
 ### Other Conference Presentations
 
@@ -208,7 +207,7 @@ Emerging Technologies in Libraries, Columbia, Missouri, USA, November,
 scholarly content: Impact on academic libraries. Doctoral student
 research poster session presented at the 2013 Association for Library
 and Information Science Education (ALISE) Annual Conference, Seattle,
-Washington, USA, January, 2013. http://hdl.handle.net/10355/16178
+Washington, USA, January, 2013. URL: [http://hdl.handle.net/10355/16178](http://hdl.handle.net/10355/16178)
 
 **Burns**, C. S. (2010, January). Social computing and citation
 analysis: Identifying future scholarly impact. Works-in-progress poster
@@ -222,7 +221,7 @@ analytics approach. Poster session presented at the 72nd American
 Society for Information Science and Technology (ASIS&amp;T).
 Abstract in the Proceedings of the American Society for
 Information Science and Technology, 46(1), 1-5.
-doi:10.1002/meet.2009.1450460359  
+doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.1450460359)  
 
 ## TEACHING
 
