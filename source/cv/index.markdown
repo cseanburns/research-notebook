@@ -73,42 +73,45 @@ Stephens Library, Stephens College
 **Burns**, C. S. (Submitted). What is a librarian? A historical reflection
 on Ralph Halstead Parker and the genesis of library automation.
 
-Adkins, D., &amp; **Burns**, C. S. (Forthcoming). Arizona public
-libraries serving the Spanish-speaking: Context for changes.
-Reference and User Services Quarterly.
+Adkins, D., &amp; **Burns**, C. S. (2013, *Forthcoming*). Arizona
+public libraries serving the Spanish-speaking: Context for
+changes. *Reference and User Services Quarterly*.
 
 Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
 conversation in Twitter: A case study of chatterboxing.
-Proceedings of the American Society for Information Science &amp;
-Technology, 49(1), 1-11. doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
-Conference site: [http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
+*Proceedings of the American Society for Information Science &amp;
+Technology, 49*(1), 1-11.
+doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
+Conference site:
+[http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
 
 **Burns**, C. S. &amp; Bossaller, J. (2012). Communication
 overload: A phenomenological inquiry into academic reference
-librarianship.  Journal of Documentation, 68(5), 597-617.
+librarianship. *Journal of Documentation, 68*(5), 597-617.
 doi:[10.1108/00220411211255996](http://dx.doi.org/10.1108/00220411211255996);
 Post-print: [http://hdl.handle.net/10355/15760](http://hdl.handle.net/10355/15760)
 
 **Burns**, C. S. (2011). Social justice and an information
-democracy with free and open source software. Information, Society
-and Justice, 4(2), 19-28. URL: [http://goo.gl/4AaDS](http://goo.gl/4AaDS).
+democracy with free and open source software. *Information,
+Society and Justice, 4*(2), 19-28. URL:
+[http://goo.gl/4AaDS](http://goo.gl/4AaDS).
 
 Smith, C., &amp; **Burns**, C. S. (2011). The First International
-Workshop on Opportunistic Discovery of Information. Information
-Research: An International Electronic Journal, 16(3). URL:
+Workshop on Opportunistic Discovery of Information. *Information
+Research: An International Electronic Journal, 16*(3). URL:
 [http://informationr.net/ir/16-3/paper490.html](http://informationr.net/ir/16-3/paper490.html).
 
 Chen, H., Kochtanek, T., **Burns**, C., &amp; Shaw, R. (2010).
 Analyzing users' retrieval behaviors and image queries of a
-photojournalism image database. The Canadian Journal of
-Information and Library Science, 34(3), 249-268.
+photojournalism image database. *The Canadian Journal of
+Information and Library Science, 34*(3), 249-268.
 doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
 
 ### Moderated Journal Articles
 
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (January/February
-2013). Institutional repositories: Exploration of costs and value.
-D-Lib Magazine, 19(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
+2013). *Institutional repositories: Exploration of costs and value.
+D-Lib Magazine, 19*(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
 
 ### Other Professional Publications
 
