@@ -27,13 +27,14 @@ Ph.D., Information Science &amp; Learning Technologies, Emphasis
 in Library and Information Science, Supporting Field in
 Philosophy, May 2013
 
-- Dissertation: Free or Open Access to Scholarly Documentation:
-Google Scholar or Academic Libraries  
+- Dissertation: [Free or Open Access to Scholarly Documentation:
+  Google Scholar or Academic
+  Libraries](http://hdl.handle.net/10355/37582)  
 
 - Advisor: John M. Budd  
 
 - Beta Phi Mu: Eugene Garfield Doctoral Dissertation Fellowship,
-2012  
+  2012  
 
 M.A., Information Science &amp; Learning Technologies, Emphasis Library Science, ALA Accredited, May 2009
 
