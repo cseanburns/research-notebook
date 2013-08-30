@@ -34,7 +34,7 @@ reflects the sentiment of the piece:
 > more than others, or the books in certain libraries are better
 > chosen than those in others.  
 >
-> The latter seems more probable.
+> The latter seems more probable (p. 87).
 
 **Note:** This article makes me want to time travel back to 1931
 and get a faculty job at the Graduate Library School. Lots of
