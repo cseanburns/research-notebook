@@ -13,7 +13,7 @@ details about the project later.
 
 For upcoming notes and logs on this project, see:
 
-[http://sweb.uky.edu/~csbu225/blog/categories/peerj/](http://sweb.uky.edu/~csbu225/blog/categories/peerj/)
+[/blog/categories/peerj/](/blog/categories/peerj/)
 
 ## PeerJ Sampling
 

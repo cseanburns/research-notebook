@@ -16,11 +16,11 @@ autoethnographic reading of [*The Library
 Quarterly*](http://www.press.uchicago.edu/ucp/journals/journal/lq.html).
 The collection can be accessed by visiting the following link:
 
-[http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/](http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/)
+[/blog/categories/lq-autoethno-field-notes/](/blog/categories/lq-autoethno-field-notes/)
 
 For an explanation of the project, see:
 
-[http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/](http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/)
+[/blog/2013/07/19/authoethnography-abstract/](/blog/2013/07/19/authoethnography-abstract/)
 
 **Reading and Posting Guide:**
 

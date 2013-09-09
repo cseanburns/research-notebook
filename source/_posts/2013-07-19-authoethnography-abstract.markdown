@@ -92,7 +92,7 @@ in readings of our field's literature, of the first 120 articles
 in *LQ* with textual reflections of my experiences as a new
 researcher and educator within LIS. Since data will be collected
 in this way, my field notes will be public and accessible at
-[http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/](http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/).
+[http://www.cseanburns.net/journal/blog/categories/lq-autoethno-field-notes/](http://www.cseanburns.net/journal/blog/categories/lq-autoethno-field-notes/).
 
 ### Motivation
 

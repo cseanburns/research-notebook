@@ -10,7 +10,7 @@ categories: [peerj, research, lit review]
 Related to a research project on peer review. For more on this
 project, see:
 
-[http://sweb.uky.edu/~csbu225/blog/categories/peerj/](http://sweb.uky.edu/~csbu225/blog/categories/peerj/)
+[/blog/categories/peerj/](/blog/categories/peerj/)
 
 ## Lit Review Notes
 

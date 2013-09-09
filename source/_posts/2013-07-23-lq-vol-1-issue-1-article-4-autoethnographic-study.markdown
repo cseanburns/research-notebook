@@ -13,11 +13,11 @@ autoethnographic reading of [*The Library
 Quarterly*](http://www.press.uchicago.edu/ucp/journals/journal/lq.html).
 The collection can be accessed by visiting the following link:
 
-[http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/](http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/)
+[/blog/categories/lq-autoethno-field-notes/](/blog/categories/lq-autoethno-field-notes/)
 
 For an explanation of the project, see:
 
-[http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/](http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/)
+[/blog/2013/07/19/authoethnography-abstract/](/blog/2013/07/19/authoethnography-abstract/)
 
 **Reading and Posting Guide:**
 
@@ -81,7 +81,7 @@ research and instruction and Masters headed for librarianship?
 section titled "What is a Library Science?", to John Dewey's *The
 Sources of a Science of Education.*
 
-[2]: http://sweb.uky.edu/~csbu225/blog/2013/07/19/lq-vol-1-issue-1-article-1-autoethnographric-study/
+[2]: /blog/2013/07/19/lq-vol-1-issue-1-article-1-autoethnographric-study/
 
 Of this piece, Waples write:
 
@@ -152,9 +152,9 @@ importance of this journal (and others) and its role in forming
 the identity of our field of study. Again, I refer to my
 [abstract][4] for what I mean by that.
 
-[3]: http://sweb.uky.edu/~csbu225/blog/2013/07/22/lq-vol-1-issue-1-article-3-autoethnographic-study/
+[3]: /blog/2013/07/22/lq-vol-1-issue-1-article-3-autoethnographic-study/
 
-[4]: http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/
+[4]: /blog/2013/07/19/authoethnography-abstract/
 
 ---
 
@@ -191,7 +191,7 @@ Education (ALISE) Annual Conference, Dallas, Texas, USA, January,
 
 The latter piece is related to this ongoing work:
 
-[http://sweb.uky.edu/~csbu225/blog/2013/06/13/collective-responsibility-ethics-paper/](http://sweb.uky.edu/~csbu225/blog/2013/06/13/collective-responsibility-ethics-paper/)
+[/blog/2013/06/13/collective-responsibility-ethics-paper/](/blog/2013/06/13/collective-responsibility-ethics-paper/)
 
 So, I will incorporate this into our ethics research project. The
 question to incorporate is: when did the field begin assigning

@@ -13,11 +13,11 @@ autoethnographic reading of [*The Library
 Quarterly*](http://www.press.uchicago.edu/ucp/journals/journal/lq.html).
 The collection can be accessed by visiting the following link:
 
-[http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/](http://sweb.uky.edu/~csbu225/blog/categories/lq-autoethno-field-notes/)
+[/blog/categories/lq-autoethno-field-notes/](/blog/categories/lq-autoethno-field-notes/)
 
 For an explanation of the project, see:
 
-[http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/](http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/)
+[/blog/2013/07/19/authoethnography-abstract/](/blog/2013/07/19/authoethnography-abstract/)
 
 **Reading and Posting Guide:**
 
@@ -146,7 +146,7 @@ writes:
 > least to some degree, as a means of infusing scientific method
 > into studies of library issues (p. 336).
 
-[1]: http://sweb.uky.edu/~csbu225/blog/2013/07/19/lq-vol-1-issue-1-article-1-autoethnographric-study/
+[1]: /blog/2013/07/19/lq-vol-1-issue-1-article-1-autoethnographric-study/
 
 My first thoughts about this issue were that, it just takes time
 to establish something like this---especially something like a
@@ -215,7 +215,7 @@ longer remember. According to Wikipedia's [revision history][4] of
 its article on *LQ*, the reference to Norman's article was added
 on February 10, 2011 by User *Wskent*.
 
-[2]: http://sweb.uky.edu/~csbu225/blog/2013/07/19/authoethnography-abstract/
+[2]: /blog/2013/07/19/authoethnography-abstract/
 [3]: http://en.wikipedia.org/wiki/The_Library_Quarterly
 [4]: http://en.wikipedia.org/w/index.php?title=The_Library_Quarterly&direction=next&oldid=411028346
 
