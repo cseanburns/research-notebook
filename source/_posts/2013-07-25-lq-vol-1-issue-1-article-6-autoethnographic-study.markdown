@@ -23,8 +23,9 @@ url:[http://www.jstor.org/stable/40039629](http://www.jstor.org/stable/40039629)
 **Note:** The sixth article published in *The Library Quarterly*
 is titled "The Relation of the College Library to Recent Movements
 in Higher Education." It was co-authored by Floyd W. Reeves and
-John Dale Russell, who were both affiliated with the University of
-Chicago.
+John Dale Russell, who were affiliated with:
+
+**Affiliation:** University of Chicago
 
 **Note:** Another source confirming [Shiflett][1] and [Hamlin][2].
 

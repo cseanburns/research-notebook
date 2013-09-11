@@ -24,8 +24,7 @@ is titled "The Place of Research in Library Service."
 
 It was written by C. C. Williamson, who was affiliated with:
 
-**Affiliation:** The School of Library Service, Columbia
-University.
+**Affiliation:** School of Library Service, Columbia University
 
 **Note:** The author's name is listed at the end of the article and
 not at the beginning.

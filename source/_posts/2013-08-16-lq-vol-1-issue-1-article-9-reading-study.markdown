@@ -22,8 +22,9 @@ url:[http://www.jstor.org/stable/40039632](http://www.jstor.org/stable/40039632)
 **Note:** The ninth and last article published in the first issue
 of *The Library Quarterly* is titled "What Can the Foreigner Find
 to Read in the Public Library?" It was written by William M.
-Randall, who was affiliated with the Graduate Library School at
-the University of Chicago.
+Randall, who was affiliated with:
+
+**Affiliation:** Graduate Library School, University of Chicago
 
 **Note:** This is a nice read. Here's a point by the author that
 reflects the sentiment of the piece:

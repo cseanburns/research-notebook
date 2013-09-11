@@ -24,7 +24,7 @@ url:[http://www.jstor.org/stable/40038536](http://www.jstor.org/stable/40038536)
 Quarterly* is titled "Children's Reading." It was written by A.
 H. Starke, who was affiliated with:
 
-**Affiliation:** Chicago, IL (No affiliation).
+**Affiliation:** Chicago, IL (No affiliation)
 
 **Note:** This is another article on children and public
 libraries. It's written in response to an early committee / study

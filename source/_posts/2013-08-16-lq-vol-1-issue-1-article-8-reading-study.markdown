@@ -22,7 +22,9 @@ url:[http://www.jstor.org/stable/40039631](http://www.jstor.org/stable/40039631)
 **Note:** The eighth article published in *The Library Quarterly*
 is titled "The Compilation of 'A List of Books for College
 Libraries.'" It was written by Charles B. Shaw, who was affiliated
-with Swarthmore College.
+with:
+
+**Affiliation:** Swarthmore College
 
 **Note:** The article begins by noting that the Carnegie
 Corporation (CC) has taken an interest in academic libraries.

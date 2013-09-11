@@ -21,8 +21,9 @@ url:[http://www.jstor.org/stable/40039630](http://www.jstor.org/stable/40039630)
 
 **Note:** The seventh article published in *The Library Quarterly*
 is titled "Three Hundred Days in Roman Libraries." It was authored
-by Geneva Drinkwater, who was affiliated with the University of
-Chicago.
+by Geneva Drinkwater, who was affiliated with:
+
+**Affiliation:** University of Chicago
 
 **Note:** This is a very delightful account about, as the title
 suggests, a trip to Roman libraries. It begins with a trip to the

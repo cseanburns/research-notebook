@@ -29,7 +29,7 @@ It was written by [William Warner
 Bishop](http://bentley.umich.edu/research/guides/libarch/bishop.php),
 who was affiliated with:
 
-**Affiliation:** The University of Michigan Library
+**Affiliation:** University of Michigan Library
 
 **Note:** Interesting note about undergraduate work, from a
 historical perspective:

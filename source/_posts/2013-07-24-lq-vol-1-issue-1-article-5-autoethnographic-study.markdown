@@ -24,9 +24,12 @@ is titled "The Service Loads of Library-School Faculties." It was
 written by Ernest J. Reese, who was writing on behalf of the
 *Committee on Teaching Loads in Library Schools*, a committee of
 the Association of American Library Schools (now ALISE), and who
-was affiliated with The School of Library Service, Columbia
-University. The article, according to the first footnote, is based
-on an earlier report given to the Association.
+was affiliated with:
+
+**Affiliation:** School of Library Service, Columbia University
+
+The article, according to the first footnote, is based on an
+earlier report given to the Association.
 
 **Note:** I'm not sure, yet, if I'll have much to say about this
 piece. It's a report about the hours instructors spend on various

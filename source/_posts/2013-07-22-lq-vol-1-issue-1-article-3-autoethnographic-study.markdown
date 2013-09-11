@@ -22,8 +22,9 @@ url:[http://www.jstor.org/stable/40039626](http://www.jstor.org/stable/40039626)
 
 **Note:** The third article published in *The Library Quarterly*
 is titled "The Carnegie Corporation and the Graduate Library
-School." It was written by F. P. Keppel, who was affiliated with
-the Carnegie Corporation.
+School." It was written by F. P. Keppel, who was affiliated with:
+
+**Affiliation:** Carnegie Corporation
 
 **Note:** It dawns on me that I do not know how many library
 schools started with an endowment, whether by a corporation or an

@@ -21,7 +21,9 @@ url:[http://www.jstor.org/stable/40039627](http://www.jstor.org/stable/40039627)
 
 **Note:** The fourth article published in *The Library Quarterly*
 is titled "The Graduate Library School at Chicago." It was written
-by Douglas Waples, who was affiliated with the School.
+by Douglas Waples, who was affiliated with: 
+
+**Affiliation:** Graduate Library School, University of Chicago
 
 **Note:** The purpose of the article is to explain the Graduate
 Library School (GLS) at Chicago. The motivation is based on the

@@ -22,7 +22,11 @@ url:[http://www.jstor.org/stable/40039625](http://www.jstor.org/stable/40039625)
 
 **Note:** The second article published in *The Library Quarterly*
 is titled "Consultants at the National Library." It was written by
-Herbert Putnam, who at the time was head of the Library of
+Herbert Putnam, who was affiliated with:
+
+**Affiliation:** Library of Congress
+
+At the time of this publication, he was head of the Library of
 Congress, one of the last **librarians** to have this role.
 
 **Note:** Putnam refers to the field as *library economy*,
