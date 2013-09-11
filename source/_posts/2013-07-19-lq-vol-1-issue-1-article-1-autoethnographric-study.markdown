@@ -6,39 +6,8 @@ comments: true
 categories: [LQ Autoethno Field Notes, research]
 ---
 
-**Preface:**
-
-This post is part of a series of field notes on an
-autoethnographic reading of [*The Library
-Quarterly*](http://www.press.uchicago.edu/ucp/journals/journal/lq.html).
-The collection can be accessed by visiting the following link:
-
-[/blog/categories/lq-autoethno-field-notes/](/blog/categories/lq-autoethno-field-notes/)
-
-For an explanation of the project, see:
-
-[/blog/2013/07/19/authoethnography-abstract/](/blog/2013/07/19/authoethnography-abstract/)
-
-**Reading and Posting Guide:**
-
-My comments, writings, etc. begin with the term **Note**. Each new
-thought begins with that term. Follow up paragraphs, if any, will
-not.
-
-My reflections will begin with the term **Reflection**. These may
-usually be posted toward the end of the post, but may also be
-interspersed throughout the document. I'll see how it goes.
-
-If I am quoting a term, I may quote it within a **Note**, that is,
-within my text. If I am quoting a phrase, a sentence, or something
-longer, I will quote it as a block quote.
-
-All quotes are assumed to be by the author of the paper under
-investigation. If I quote another source, I will add the author's
-name, year, and page number after that quote: e.g., (Author, Year,
-p. n).
-
-Because these are notes, they are not heavily edited for grammar.
+For an explanation of this post, see:
+[Preface](/blog/2013/08/14/lq-autoethnography-research-journal-preface/)
 
 ---
 
@@ -51,9 +20,12 @@ url:[http://www.jstor.org/stable/40039624](http://www.jstor.org/stable/40039624)
 ---
 
 **Note:** The first article published in *The Library Quarterly*
-is titled "The Place of Research in Library Service." It was
-written by C. C. Williamson, who was affiliated with the School of
-Library Service, Columbia University.
+is titled "The Place of Research in Library Service."
+
+It was written by C. C. Williamson, who was affiliated with:
+
+**Affiliation:** The School of Library Service, Columbia
+University.
 
 **Note:** The author's name is listed at the end of the article and
 not at the beginning.

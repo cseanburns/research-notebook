@@ -8,7 +8,7 @@ categories: [LQ Autoethno Field Notes, research]
 ---
 
 For an explanation of this post, see:
-[/blog/2013/08/14/lq-autoethnography-research-journal-preface/](/blog/2013/08/14/lq-autoethnography-research-journal-preface/)
+[Preface](/blog/2013/08/14/lq-autoethnography-research-journal-preface/)
 
 ---
 

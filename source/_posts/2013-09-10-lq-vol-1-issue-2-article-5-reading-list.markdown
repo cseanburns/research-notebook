@@ -38,12 +38,23 @@ case that an understanding of philanthropy and libraries is
 necessary for a theory of librarianship to develop (probably still
 true today).
 
-Butler then offers a critique that focuses on the purpose of
-collecting rare books when compared to the social mission of the
-library and the library's commitment to its community. This seems
-to be the real value of the essay, although the specifics are
-important for other reasons too. It's a nice use of a heuristic:
-the library has a mission, and if something violates that mission,
-even if that something seems to align with it, then what violates
-must be examined and possibly set aside, no matter how seemingly
-worthy it is.
+**Note:** Butler then offers a critique that focuses on the
+purpose of collecting rare books when compared to the social
+mission of the library and the library's commitment to its
+community. This seems to be the real value of the essay, although
+the specifics are important for other reasons too. It's a nice use
+of a heuristic: the library has a mission, and if something
+violates that mission, even if that something seems to align with
+it, then what violates must be examined and possibly set aside, no
+matter how seemingly worthy it is.
+
+**Note:** Regarding the previous note about the relationship
+between libraries and philanthropy, and the impact this has on a
+theory of librarianship, I add this note from Irene S.
+Farkas-Conn's work [From Documentation to Information
+Science](http://www.asis.org/Farkas-Conn-FDTIS.html):
+
+> After World War II, the government took over the role played
+> earlier by the philanthropic foundations (p. 201).
+
+This, then, should be incorporated into the broader theory of LIS.
