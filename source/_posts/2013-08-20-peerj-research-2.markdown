@@ -7,13 +7,13 @@ categories: [peerj, research]
 ---
 
 This is the second set of notes on a research project about peer
-review. The first set of notes are at:
-[/blog/2013/07/20/peerj-research/](/blog/2013/07/20/peerj-research/).
-More details about the project later.
+review. The first set of notes are at: [PeerJ
+Research](/blog/2013/07/20/peerj-research/). More details about
+the project later.
 
 For upcoming notes and log entries on this project, see:
 
-[/blog/categories/peerj/](/blog/categories/peerj/)
+[Category: PeerJ](/blog/categories/peerj/)
 
 ## PeerJ Data Collection
 

@@ -130,6 +130,12 @@ site: Final report. Missouri Department of Transportation, Project #RI07-040
 
 ### Refereed Conference Abstracts
 
+**Burns**, C. S. (2014, Forthcoming). The scholarly journal and
+disciplinary identity: An Autoethnographic reading of *The Library
+Quarterly*. 2014 Association for Library and Information Science
+(ALISE) Annual Conference, Philadelphia, Pennsylvania, USA,
+January, 2014.
+
 Budd, J. M., **Burns**, C. S., &amp; Moulaison, H. M. (2013,
 *Forthcoming*). High-stakes information: Deciding what constitutes
 quality in our products of communication. Proceedings of the
@@ -200,6 +206,10 @@ London Borough of Barking &amp; Dagenham, United Kingdom, August,
 
 ### Invited Talks
 
+**Burns**, C. S. (2013). Evaluating research with altmetrics. Open
+Access Week, University of Kentucky Libraries, Lexington,
+Kentucky.
+
 **Burns**, C. S. (2011). Emerging technologies in scholarly
 communication.  In Dr. Heather L. Moulaison's ISLT 9410 Seminar:
 Emerging Technologies in Libraries, Columbia, Missouri, USA, November,
@@ -232,7 +242,8 @@ doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.145046035
 ### University of Kentucky, as Assistant Professor
 
 IS 201/201: General Information Sources, Fall 2013  
-IS 601/202: Information Seeking, Fall 2013  
+LIS 601/202: Information Seeking, Fall 2013  
+LIS 658: Knowledge Management  
 
 ### University of Missouri, as Course Instructor
 
