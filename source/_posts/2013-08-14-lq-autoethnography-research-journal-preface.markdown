@@ -6,9 +6,6 @@ comments: true
 categories: [LQ Autoethno Field Notes, research]
 ---
 
-**Note:** Instead of inserting this preface in each post, I'll now
-link to it.
-
 **Preface:**
 
 This post is part of a series of field notes on an
@@ -16,11 +13,11 @@ autoethnographic reading of [*The Library
 Quarterly*](http://www.press.uchicago.edu/ucp/journals/journal/lq.html).
 The collection can be accessed by visiting the following link:
 
-[/blog/categories/lq-autoethno-field-notes/](/blog/categories/lq-autoethno-field-notes/)
+[Field Notes](/blog/categories/lq-autoethno-field-notes/)
 
 For an explanation of the project, see:
 
-[/blog/2013/07/19/authoethnography-abstract/](/blog/2013/07/19/authoethnography-abstract/)
+[Extended Abstract](/blog/2013/07/19/authoethnography-abstract/)
 
 **Reading and Posting Guide:**
 

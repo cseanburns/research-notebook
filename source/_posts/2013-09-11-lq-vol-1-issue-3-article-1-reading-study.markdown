@@ -13,9 +13,9 @@ For an explanation of this post, see:
 
 This entry is about:
 
-Bishop, William Warner. University Libraries: Some Reflections on
-the Dedication of the Sterling Memorial Library of Yale
-University. *The Library Quarterly, 1*(3), 243-254.
+Bishop, William Warner. (1931). University Libraries: Some
+Reflections on the Dedication of the Sterling Memorial Library of
+Yale University. *The Library Quarterly, 1*(3), 243-254.
 url:[http://www.jstor.org/stable/40039656](http://www.jstor.org/stable/40039656)
 
 ---
