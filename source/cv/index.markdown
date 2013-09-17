@@ -71,12 +71,12 @@ Stephens Library, Stephens College
 
 ### Refereed Articles and Proceedings Papers
 
-**Burns**, C. S. (Submitted). What is a librarian? A historical reflection
-on Ralph Halstead Parker and the genesis of library automation.
+**Burns**, C. S. (Submitted). Academic libraries and automation. A
+historical reflection on Ralph Halstead Parker.
 
 Adkins, D., &amp; **Burns**, C. S. (2013, *Forthcoming*). Arizona
 public libraries serving the Spanish-speaking: Context for
-changes. *Reference and User Services Quarterly*.
+changes. *Reference and User Services Quarterly, 53*(1).
 
 Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
 conversation in Twitter: A case study of chatterboxing.
@@ -131,7 +131,7 @@ site: Final report. Missouri Department of Transportation, Project #RI07-040
 ### Refereed Conference Abstracts
 
 **Burns**, C. S. (2014, Forthcoming). The scholarly journal and
-disciplinary identity: An Autoethnographic reading of *The Library
+disciplinary identity: An autoethnographic reading of *The Library
 Quarterly*. 2014 Association for Library and Information Science
 (ALISE) Annual Conference, Philadelphia, Pennsylvania, USA,
 January, 2014.

@@ -19,7 +19,7 @@ url:[http://www.jstor.org/stable/40039657](http://www.jstor.org/stable/40039657)
 
 ---
 
-**Note:** The second article of the third issue *The Library
+**Note:** The second article of the third issue of *The Library
 Quarterly* is titled "Origins of Russian Printing."
 
 It was written by Eugene Victor Prostov, who was affiliated with:

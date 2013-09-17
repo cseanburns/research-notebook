@@ -20,7 +20,7 @@ url:[http://www.jstor.org/stable/40039656](http://www.jstor.org/stable/40039656)
 
 ---
 
-**Note:** The first article of the third issue *The Library
+**Note:** The first article of the third issue of *The Library
 Quarterly* is titled "University Libraries: Some Reflections on
 the Dedication of the Sterling Memorial Library of Yale
 University."
