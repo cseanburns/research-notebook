@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Day, Briet, Merton, Norms"
+date: 2013-09-19 12:56
+comments: true
+categories: [lit review, norms, documentation, library science]
+---
+
+I recently started reading Ronald Day's *The Modern Invention of
+Information: Discourse, History, and Power*. I'm putting aside for
+a moment some of the interesting critiques Day has regarding Briet
+and Latour in order to note something he says about Briet's work
+and to connect that with [Merton's
+norms](/blog/2013/09/19/reading-robert-k-merton-normative-structure/).
+
+> Though Briet's phrase is ambiguous, Briet's work as a whole
+> argues that science as a cultural paradigm forced into existence
+> the institution of documentation as well as its techniques of
+> organizing documents.... In fact, as we will see for Briet,
+> documentation must work together with science in order to
+> co-produce the future" (Day, 2001, p. 28).
+
+It seems likely that to satisfy payment in the form of esteem and
+recognition (see Merton on the norm of *communism*), the
+dissemination of the scholarly record functioned as a reinforcing
+mechanism for these norms.
+
+Day, Ronald E. (2001). *The Modern Invention of Information:
+Discourse, History, and Power*. Carbondale, IL: Southern Illinois
+University Press. URL:
+[http://www.worldcat.org/isbn/0809328488](http://www.worldcat.org/isbn/0809328488)
+

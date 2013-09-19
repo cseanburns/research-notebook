@@ -69,3 +69,7 @@ I'll link to the full abstract when it comes online.
 
 It was nice to read Norman W. Storer's intro. Scholarly
 introductions, book reviews, etc., can often be underrated.
+
+Merton, Robert K. (1973). *The Sociology of Science: Theoretical
+and Empirical Investigations*. Chicago: University of Chicago
+Press.
