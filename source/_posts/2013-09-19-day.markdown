@@ -25,6 +25,20 @@ recognition (see Merton on the norm of *communism*), the
 dissemination of the scholarly record functioned as a reinforcing
 mechanism for these norms.
 
+---
+
+Another note:
+
+> Brief recognizes that a cultural crisis involving overproduction
+> has occurred in modernity, but like Otlet, she sees documentary
+> technique as a way of managing this crisis (Day, 2001, p. 29).
+
+Unlike documentation, some strains in information science believe
+that filtering is a way of "managing this crisis." For example,
+through algorithms or social networks. This is a direct move away
+the practice of documentation and library science, and should be
+seen as such.
+
 Day, Ronald E. (2001). *The Modern Invention of Information:
 Discourse, History, and Power*. Carbondale, IL: Southern Illinois
 University Press. URL:
