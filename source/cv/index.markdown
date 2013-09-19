@@ -71,8 +71,9 @@ Stephens Library, Stephens College
 
 ### Refereed Articles and Proceedings Papers
 
-**Burns**, C. S. (Submitted). Academic libraries and automation. A
-historical reflection on Ralph Halstead Parker.
+**Burns**, C. S. (2014, *Forthcoming*). Academic libraries and
+automation. A historical reflection on Ralph Halstead Parker.
+*portal: Libraries and the Academy*.
 
 Adkins, D., &amp; **Burns**, C. S. (2013, *Forthcoming*). Arizona
 public libraries serving the Spanish-speaking: Context for
