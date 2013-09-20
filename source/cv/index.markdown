@@ -69,7 +69,7 @@ Stephens Library, Stephens College
 
 ## PUBLICATIONS
 
-### Refereed Articles and Proceedings Papers
+### Refereed Journal Articles
 
 **Burns**, C. S. (2014, *Forthcoming*). Academic libraries and
 automation. A historical reflection on Ralph Halstead Parker.
@@ -78,14 +78,6 @@ automation. A historical reflection on Ralph Halstead Parker.
 Adkins, D., &amp; **Burns**, C. S. (2013, *Forthcoming*). Arizona
 public libraries serving the Spanish-speaking: Context for
 changes. *Reference and User Services Quarterly, 53*(1).
-
-Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
-conversation in Twitter: A case study of chatterboxing.
-*Proceedings of the American Society for Information Science &amp;
-Technology, 49*(1), 1-11.
-doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
-Conference site:
-[http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
 
 **Burns**, C. S. &amp; Bossaller, J. (2012). Communication
 overload: A phenomenological inquiry into academic reference
@@ -115,6 +107,16 @@ doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
 2013). *Institutional repositories: Exploration of costs and value.
 D-Lib Magazine, 19*(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
 
+### Refereed Proceedings Papers
+
+Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
+conversation in Twitter: A case study of chatterboxing.
+*Proceedings of the American Society for Information Science &amp;
+Technology, 49*(1), 1-11.
+doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
+Conference site:
+[http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
+
 ### Other Professional Publications
 
 Adkins, D., &amp; **Burns**, C. S. (2011, December 15). How do
@@ -131,7 +133,7 @@ site: Final report. Missouri Department of Transportation, Project #RI07-040
 
 ### Refereed Conference Abstracts
 
-**Burns**, C. S. (2014, Forthcoming). The scholarly journal and
+**Burns**, C. S. (2014, *Forthcoming*). The scholarly journal and
 disciplinary identity: An autoethnographic reading of *The Library
 Quarterly*. 2014 Association for Library and Information Science
 (ALISE) Annual Conference, Philadelphia, Pennsylvania, USA,
