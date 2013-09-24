@@ -36,8 +36,8 @@ Another note:
 Unlike documentation, some strains in information science believe
 that filtering is a way of "managing this crisis." For example,
 through algorithms or social networks. This is a direct move away
-the practice of documentation and library science, and should be
-seen as such.
+from the practice of documentation and library science, and should
+be seen as such.
 
 Day, Ronald E. (2001). *The Modern Invention of Information:
 Discourse, History, and Power*. Carbondale, IL: Southern Illinois

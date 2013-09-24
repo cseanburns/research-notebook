@@ -29,16 +29,16 @@ It was written by Douglas Waples, who was affiliated with:
 
 **Note:** Just based on the title, I'm beginning to see an agenda
 here. I've long known that the Graduate Library School sought to
-make Library Science a social science. It's very evident in the
-articles the GLS faculty are publishing in this first volume of
-*LQ*.
+make a social science of library studies (thus, library science).
+This seems fairly evident in the articles the GLS faculty are
+publishing in this first volume of *LQ*.
 
 **Reflection:** In many ways, reading these early issues sometimes
 doesn't feel like I'm reading articles that were published more
-than 80 years ago. This article in about the interdisciplinary
-nature of library science as well as cooperative research. I've
-been reading about this topic recently and the arguments are much
-the same.
+than 80 years ago. For example, this article is about the
+interdisciplinary nature of library science as well as cooperative
+research. I've been reading about this topic recently and the
+arguments are much the same.
 
 Should I be expecting change? Should things be very different than
 they were 80 years ago?
