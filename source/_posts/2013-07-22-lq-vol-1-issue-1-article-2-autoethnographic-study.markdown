@@ -4,7 +4,7 @@ title: "LQ Vol 1 Issue 1 Article 2: Autoethnographic Study"
 date: 2013-07-22 07:09
 comments: true
 categories: 
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Putnam, Affil-Library of Congress]
 ---
 
 For an explanation of this post, see:

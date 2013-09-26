@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 1 Article 7: Reading Study"
 date: 2013-08-14 10:21
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Drinkwater, Affil-University of Chicago]
 ---
 
 For an explanation of this post, see:

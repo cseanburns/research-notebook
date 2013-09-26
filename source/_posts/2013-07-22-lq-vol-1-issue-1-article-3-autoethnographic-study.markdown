@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 1 Article 3: Autoethnographic Study"
 date: 2013-07-22 13:43
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Keppel, Affil-Carnegie Corporation]
 ---
 
 For an explanation of this post, see:

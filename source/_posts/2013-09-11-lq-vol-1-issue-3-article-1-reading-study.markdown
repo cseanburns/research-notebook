@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 3 Article 1: Reading Study"
 date: 2013-09-11 14:12
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Bishop, Affil-University of Michigan Library]
 ---
 
 For an explanation of this post, see:

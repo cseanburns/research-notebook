@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 1 Article 4: Autoethnographic Study"
 date: 2013-07-23 06:59
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Waples, Affil-University of Chicago]
 ---
 
 For an explanation of this post, see:

@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 1 Article 8: Reading Study"
 date: 2013-08-16 13:48
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Shaw, Affil-Swarthmore College]
 ---
 
 For an explanation of this post, see:

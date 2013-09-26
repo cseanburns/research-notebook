@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 2 Article 1: Reading Study"
 date: 2013-08-28 09:00
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Joeckel, Affil-University of Michigan]
 ---
 
 For an explanation of this post, see:
@@ -48,7 +48,7 @@ librarians:
 Then the notion of the board of library trustees is introduced.
 Such that:
 
-> So firmly has the board idea intrenched [*sic*] itself in
+> So firmly has the board idea intrenched \[*sic*\] itself in
 > library administration that librarians themselves have come to
 > regard it almost as a sacred and inalienable right, variation
 > from which is unthinkable and not to be tolerated. Scant space

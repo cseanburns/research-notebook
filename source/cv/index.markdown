@@ -274,7 +274,8 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 *American Society for Information Science &amp; Technology
 (ASIS&amp;T), 2009 -- Present*  
 
-- Membership Officer, SIG-MET, ASIS&amp;T, 2013 -- Present
+- Membership Officer, SIG-MET, ASIS&amp;T, 2014 -- Present
+- Membership Officer, SIG-MET, ASIS&amp;T, 2013 -- 2014
 
 *Association for Library &amp; Information Science Education
 (ALISE), 2009 -- Present*  

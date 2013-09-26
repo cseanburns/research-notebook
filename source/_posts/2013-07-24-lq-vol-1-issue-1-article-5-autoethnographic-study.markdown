@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 1 Article 5: Autoethnographic Study"
 date: 2013-07-24 11:11
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Reece, Affil-Columbia University]
 ---
 
 For an explanation of this post, see:

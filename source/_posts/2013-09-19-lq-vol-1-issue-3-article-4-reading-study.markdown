@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 3 Article 4: Reading Study"
 date: 2013-09-19 07:59
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Howe, Affil-University of Chicago]
 ---
 
 For an explanation of this post, see:

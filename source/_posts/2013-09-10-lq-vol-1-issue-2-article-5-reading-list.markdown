@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 2 Article 5: Reading Study"
 date: 2013-09-10 15:08
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Butler, Affil-The Newberry Library]
 ---
 
 For an explanation of this post, see:

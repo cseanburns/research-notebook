@@ -4,7 +4,7 @@ title: "LQ Vol 1 Issue 3 Article 3: Reading Study"
 date: 2013-09-17 07:38
 comments: true
 categories: 
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Borden, Affil-Dartmouth College]
 ---
 
 For an explanation of this post, see:

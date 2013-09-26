@@ -4,7 +4,7 @@ title: "LQ Vol 1 Issue 2 Article 3: Reading Study"
 date: 2013-09-09 16:19
 comments: true
 categories: 
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Starke, Affil-No Affil]
 ---
 
 For an explanation of this post, see:

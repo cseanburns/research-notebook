@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 1 Article 1: Autoethnographric Study"
 date: 2013-07-19 15:19
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Williamson, Affil-Columbia University]
 ---
 
 For an explanation of this post, see:

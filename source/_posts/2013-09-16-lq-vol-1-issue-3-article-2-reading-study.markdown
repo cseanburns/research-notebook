@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 3 Article 2: Reading Study"
 date: 2013-09-16 10:53
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Prostov, Affil-University of Chicago]
 ---
 
 For an explanation of this post, see:

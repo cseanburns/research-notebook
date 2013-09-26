@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 1 Issue 3 Article 5: Reading Study"
 date: 2013-09-24 08:13
 comments: true
-categories: [LQ Autoethno Field Notes, research]
+categories: [LQ Autoethno Field Notes, research, Author-Waples, Affil-University of Chicago]
 ---
 
 For an explanation of this post, see:
