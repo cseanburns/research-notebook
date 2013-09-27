@@ -26,6 +26,11 @@ affiliated with:
 
 **Affiliation:** University of Michigan
 
+**Note:** The second part of this article was published in Vol. 1,
+Issue 3 and my post on it is here:
+
+[Joeckel1931b](/blog/2013/09/27/lq-vol-1-issue-3-article-6-reading-study/)
+
 **Note:** A powerful introduction set within the context of why
 libraries do not receive much attention, much financial support
 from their municipal governments, and little pay for their
@@ -123,6 +128,6 @@ Library](http://archive.org/details/governmentofthea010579mbp).
 there is, by the way, some interesting references to that book in
 Jesse H. Shera's important work, [Foundations of the Public
 Library](http://archive.org/details/foundationsofthe012037mbp),
-this article has only been cite three times (via Google Scholar),
+this article has only been cited three times (via Google Scholar),
 and one of those citations is from Joeckel's 2nd part of this
 article.

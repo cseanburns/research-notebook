@@ -75,9 +75,10 @@ Stephens Library, Stephens College
 automation. A historical reflection on Ralph Halstead Parker.
 *portal: Libraries and the Academy*.
 
-Adkins, D., &amp; **Burns**, C. S. (2013, *Forthcoming*). Arizona
-public libraries serving the Spanish-speaking: Context for
-changes. *Reference and User Services Quarterly, 53*(1).
+Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
+libraries serving the Spanish-speaking: Context for changes.
+*Reference and User Services Quarterly, 53*(1), 60-70.
+doi:[10.5860/rusq.53n1.60](http://dx.doi.org/10.5860/rusq.53n1.60)
 
 **Burns**, C. S. &amp; Bossaller, J. (2012). Communication
 overload: A phenomenological inquiry into academic reference
