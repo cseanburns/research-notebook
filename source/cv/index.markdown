@@ -275,8 +275,8 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 *American Society for Information Science &amp; Technology
 (ASIS&amp;T), 2009 -- Present*  
 
-- Membership Officer, SIG-MET, ASIS&amp;T, 2014 -- Present
-- Membership Officer, SIG-MET, ASIS&amp;T, 2013 -- 2014
+- Membership Officer, SIG-MET, ASIS&amp;T, 2014
+- Membership Officer, SIG-MET, ASIS&amp;T, 2013
 
 *Association for Library &amp; Information Science Education
 (ALISE), 2009 -- Present*  
@@ -284,21 +284,25 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 - Member, Centennial Celebration Committee, ALISE, 2013 -- Present   
 
 - Chair, Award for Professional Contribution to Library and Information
-Science, ALISE, 2013 -- Present  
+Science, ALISE, 2014  
 
 - Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
-Group, ALISE, 2013 -- Present  
+Group, ALISE, 2014
 
 - Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
-Group, ALISE, 2012 -- 2013  
+Group, ALISE, 2013  
 
 - Member, Award for Professional Contribution to Library and Information
-Science, 2012 -- 2013  
+Science, 2013  
 
 *Canadian Association for Information Science (CAIS), 2010 -- 2013*  
 
+*Kentucky Library Association (KLA), 2013 -- Present*
+
 ### Peer Reviewer
 
+iConference, Posters, 2014  
+SIG-MET ASIS&amp;T, Workshop Student Contest, 2013  
 Library Student Journal, 2009 -- 2011  
 
 ### University Service
