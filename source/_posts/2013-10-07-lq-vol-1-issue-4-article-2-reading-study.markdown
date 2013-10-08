@@ -13,7 +13,7 @@ For an explanation of this post, see:
 
 This entry is about:
 
-Akers, Susan Grey. (1931). To What Extend Do the Students of the
+Akers, Susan Grey. (1931). To What Extent Do the Students of the
 Liberal-Arts Colleges Use the Bibliographic Items Given on the
 Catalogue Card? *The Library Quarterly, 1*(4), 394-408.
 url:[http://www.jstor.org/stable/40039684](http://www.jstor.org/stable/40039684)
@@ -86,7 +86,7 @@ Table II, p. 399).
 
 **Note:** Akers now reports student comments. I like this one:
 
-> \2. I should like to see a card system arranged so that an
+> 2\. I should like to see a card system arranged so that an
 > average individual not having been in the library before could
 > find a book .... **without having to bother the librarian for
 > the required information**. As for the cards, I do not believe
@@ -102,14 +102,14 @@ requesting assistance from librarians.
 
 **Note:** More wish list for the card catalog:
 
-> \11. I should like to suggest that in the case of books of
+> 11\. I should like to suggest that in the case of books of
 > reference the position of the author be stated so that one might
 > infer what authority the book carries if one is not acquainted
 > with the author (p. 406).
 
 **Note:** All librarians will nod their heads at this request:
 
-> \34. Color of the book (p. 407).
+> 34\. Color of the book (p. 407).
 
 **Reflection:** A really interesting piece--background, methods,
 data collection, findings, conclusion (not described here). The

@@ -42,7 +42,7 @@ Then:
 > (pp. 267-268).
 
 I'm reminded, from the above passage, of things such as the public
-responsibility land-grant institutions that have. Such may be a
+responsibility that land-grant institutions have. Such may be a
 positive result of such self-consciousness, even though the
 land-grant institution may pre-date the growing "challenges"
 Merton speaks to.
@@ -78,19 +78,22 @@ provides footnotes for more reading) of the *ethos of science*:
 
 A few important points about the above:
 
-- the norms expression in the form of:
-    - prescriptions
-    - proscriptions
-    - preferences
-    - permissions
-- and their legitimization through:
-    - institutional values
-- and internalized by scientists.
+- The norms are expressed in the form of:
+  * prescriptions
+  * proscriptions
+  * preferences
+  * permissions
+
+- They are legitimized through:
+  * institutional values
+
+- And internalized by:
+  * scientists
 
 **Note:** Another important point:
 
 > The institutional goal of science is the extension of
-> *certified* knowledge [emphasis added] (p. 270).
+> *certified* knowledge \[emphasis added\] (p. 270).
 
 Thus, I emphasize the term *certified* because it's an essential
 qualifier of the term *knowledge*. Philosophers might argue that
