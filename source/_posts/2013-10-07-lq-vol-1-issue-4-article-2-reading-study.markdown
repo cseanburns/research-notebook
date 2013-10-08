@@ -79,19 +79,20 @@ interesting:
 
 **Note:** The research involved asking students what part of the
 card they used. Akers then ranked the results. One finding, for
-example, is that students most often used the **Date of book** and
-used, least of all, the **Series notes for all series** (see Table
-II, p. 399).
+example, is that students ranked the **Date of book** information
+as the most important information on the card, and the **Series
+notes for all series** information as the least important (see
+Table II, p. 399).
 
 **Note:** Akers now reports student comments. I like this one:
 
-> 2. I should like to see a card system arranged so that an
+> \2. I should like to see a card system arranged so that an
 > average individual not having been in the library before could
 > find a book .... **without having to bother the librarian for
 > the required information**. As for the cards, I do not believe
 > that the thousand-and-one abbreviations used can be understood
 > by anyone but a librarian. Why not simplify the entire system?
-> It can be done [emphasis added] (p. 405).
+> It can be done \[emphasis added\] (p. 405).
 
 Emphasis added because it just shows that students have never
 wanted to go to the librarian. This is a universal law!
@@ -101,14 +102,14 @@ requesting assistance from librarians.
 
 **Note:** More wish list for the card catalog:
 
-> 11. I should like to suggest that in the case of books of
+> \11. I should like to suggest that in the case of books of
 > reference the position of the author be stated so that one might
 > infer what authority the book carries if one is not acquainted
 > with the author (p. 406).
 
 **Note:** All librarians will nod their heads at this request:
 
-> 34. Color of the book (p. 407).
+> \34. Color of the book (p. 407).
 
 **Reflection:** A really interesting piece--background, methods,
 data collection, findings, conclusion (not described here). The
