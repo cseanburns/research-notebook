@@ -20,7 +20,7 @@ url:[http://www.jstor.org/stable/40039685](http://www.jstor.org/stable/40039685)
 ---
 
 **Note:** The third article of the fourth issue of *The Library
-Quarterly* is titled " Report of Bureau of Standards Research on
+Quarterly* is titled "Report of Bureau of Standards Research on
 Preservation of Records."
 
 It was written by B. W. Scribner, who was affiliated with:
