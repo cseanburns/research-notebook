@@ -3,7 +3,7 @@ layout: post
 title: "Reading Robert K Merton"
 date: 2013-09-18 08:16
 comments: true
-categories: [peer review, lit review, research, peerj]
+categories: [peer review, lit review, research, peerj, merton]
 ---
 
 I will be closely revisiting some writings by Robert K.

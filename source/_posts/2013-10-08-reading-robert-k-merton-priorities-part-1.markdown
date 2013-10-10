@@ -3,17 +3,10 @@ layout: post
 title: "Reading Robert K Merton: Priorities Part 1"
 date: 2013-10-08 20:44
 comments: true
-categories: [peer review, lit review, research, peerj, documentation, library science]
+categories: [lit review, peer review, peerj, research, merton]
 ---
 
-This post follows a post on:
-
-- [Reading Robert K. Merton: Normative
-  Structure](/blog/2013/09/19/reading-robert-k-merton-normative-structure)
-
-and an earlier post on:
-
-- [Reading Robert K. Merton](/blog/2013/09/18/reading-robert-k-merton/)
+[Category: PeerJ](/blog/categories/peerj)
 
 Some notes on reading "Priorities in Scientific Discovery" in [The
 Sociology of Science: Theoretical and Empirical
@@ -192,7 +185,7 @@ think, and is often glossed over in arguments about what, for
 example, peer review is supposed to accomplish. There will be some
 parts of the work of science that no one will ever be able to
 confirm was done appropriately. It seems to me that there will
-always, at some level, have to be some trust involved, no matter
+always have to be, at some level, some trust involved, no matter
 how high the stakes.
 
 Part 2 of these notes come next.

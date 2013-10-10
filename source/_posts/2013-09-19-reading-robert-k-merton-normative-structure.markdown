@@ -3,7 +3,7 @@ layout: post
 title: "Reading Robert K Merton: Normative Structure"
 date: 2013-09-19 12:50
 comments: true
-categories: [peer review, lit review, research, peerj, documentation, library science]
+categories: [lit review, peer review, peerj, research, merton]
 ---
 
 This post follows the earlier post on [Reading Robert K.
