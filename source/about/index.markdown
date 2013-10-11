@@ -30,3 +30,10 @@ to any of my posts, please feel free to email me
 (sean.burns@uky.edu) or ping me on twitter (@burnscsb).
 
 [1]: http://github.com/seancsb/research-notebook
+
+## Other links:
+
+- [ORCID](http://www.citeulike.org/user/seancsb)
+- [RPubs](http://rpubs.com/seancsb)
+- [CiteULike](http://www.citeulike.org/user/seancsb)
+- [Wiki](http://www.cseanburns.net/wiki/)
