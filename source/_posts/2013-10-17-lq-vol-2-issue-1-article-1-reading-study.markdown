@@ -13,7 +13,7 @@ For an explanation of this post, see:
 
 This entry is about:
 
-Wilson, Louis R. (1931). Aspects of Education for Librarianship in
+Wilson, Louis R. (1932). Aspects of Education for Librarianship in
 America. *The Library Quarterly, 2*(1), 1-10.
 url:[http://www.jstor.org/stable/4301858](http://www.jstor.org/stable/4301858)
 
