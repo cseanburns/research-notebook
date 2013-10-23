@@ -15,6 +15,11 @@ Investigations](http://www.worldcat.org/oclc/817893417):
 1. "Priority in Scientific Discovery"
 1. "The Matthew Effect in Science"
 
+Update on October 23, 2013: I'm adding this piece, which comes
+after the Matthew effect article / chapter:
+
+1. "Institutionalized Patterns of Evaluation in Science"
+
 The introduction in the above book, written by Norman W. Storer,
 is a good overview of Merton's work. Although I have read these
 works before, I did so over the course of a couple years. Reading
