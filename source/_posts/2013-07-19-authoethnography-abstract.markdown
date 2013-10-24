@@ -6,10 +6,11 @@ comments: true
 categories: [LQ Autoethno Field Notes, research]
 ---
 
-This is an abstract I submitted for the next ALISE conference. I
-won't know if it will be accepted for a couple more months, and
-since it's not a double peer blind review process, I see no
-problem posting it now.
+This is an abstract I submitted to [ALISE](http://www.alise.org/)
+for the [2014 conference](http://www.alise.org/2014-conference).
+~~I won't know if it will be accepted for a couple more months~~
+(It was accepted), and since it's not a double peer blind review
+process, I see no problem posting it now.
 
 I'm posting this abstract for a specific reason. This site will
 function as a place for my field notes on the project. Since I'm
@@ -17,7 +18,13 @@ about to add my first set of notes, it seems important to explain
 the reason for those notes, before I begin posting them, in case
 the process might be useful to someone.
 
-## Title: The Scholarly Journal and Disciplinary Identity: An Autoethnographic Reading of The Library Quarterly
+**Update:** After the following abstract was reviewed and before
+final submission to the conference, I made some revisions to the
+following text. See my [GitHub
+repository](https://github.com/seancsb/research-notebook) for the
+previous version.
+
+## Title: The Scholarly Journal and Disciplinary Identity: An Autoethnographic Reading of *The Library Quarterly*
 
 ### Introduction
 
@@ -29,28 +36,29 @@ the "building of scientific communities" (Functions of Scientific
 Journals section, para 3, Schaffner, 1994), and this has been true
 for the field we now call library and information science (LIS).
 
-In LIS, the journal has played an important role in identity
-formation since the founding of the *Library Journal* (1876).
-Approximately 55 years later, the founding of several scholarly
-and technical journals, including *The Library Quarterly* (1931),
-the *Journal of Documentary Reproduction* (1938), which would
-later and in a roundabout way evolve into *JASIS&amp;T*
-(Farkas-Conn, 1990), and *College and Research Libraries* (1939),
-created additional outlets for the "publication of professional
-problems" (Hamlin, p. 60, 1981). For Hamlin, the addition of these
-journals signified a decade of wonders for librarians. They helped
-usher in modern librarianship, evolve areas such as information
-science from documentation, and provide a cultural record of the
-efforts made by the people involved – something to refer to and to
-identify with as members of a community.
+In the LIS example, the journal has played an important role in
+identity formation since the founding of the *Library Journal* in
+1876. Approximately 55 years later, the founding of several
+scholarly and technical journals, including *The Library
+Quarterly* (1931), the *Journal of Documentary Reproduction*
+(1938), which would later and in a roundabout way evolve into
+*JASIS&amp;T* (Farkas-Conn, 1990), and *College and Research
+Libraries* (1939), created additional outlets for the "publication
+of professional problems" (Hamlin, p. 60, 1981). For Hamlin, the
+addition of these journals signified a decade of wonders for
+librarians. In general, though, they helped usher in modern
+librarianship, evolve areas such as information science from
+documentation, and provide a cultural record of the efforts made
+by the people involved – something to refer to and to identify
+with as members of a community.
 
 ### Methodology
 
 This study employs an autoethnographic reading of the first four
 volumes of the *The Library Quarterly* (*LQ*). This includes a
 reading of 16 issues and 120 articles published in the 1931
-through 1934 volumes. The autoethnographic approach, in this
-study, involves describing what it means to be a researcher and an
+through 1934 volumes. In this study, the autoethnographic approach
+involves describing what it means to be a researcher and an
 educator in a field where scholarly journals played an important
 role in shaping the identity of the field. The goal is twofold: to
 develop a richer understanding of what journals mean for our
@@ -73,7 +81,7 @@ self-experience but reaches beyond it as well" (Anderson, p. 386,
 how journals have contributed to disciplinary identity, analytical
 autoethnography is the chosen research design.
 
-Autoethnographic research in LIS is rare (Michels, 2012) and
+Autoethnographic research in LIS is rare (e.g., Michels, 2012) and
 autoethnographic readings of texts may be more common but are rare
 also. Kaufmann's (2005) "autotheoretical \[sic\] reading of
 Foucault" (p. 577) provides a reference point for this study. In
@@ -96,25 +104,27 @@ in this way, my field notes will be public and accessible at
 
 ### Motivation
 
-The motivation for this study originates from recent trends in
-scholarly communication and what these trends mean for the
-sciences, broadly defined. Specifically, despite the important
-role journals have had in creating communities and shaping
-identities, problems associated with the serials crisis and
-developments in emerging technologies have resulted in some
-researchers calling for an end to the genre. The arguments include
-a move to the article as a complete product in itself and to a
-market-based, decentralized infrastructure (Priem &amp; Hemminger,
-2012) where identification, publication, storage, assessment,
-marketing, search, and preparation are taken over by entities
-other than the journal (Priem, 2013). In some cases, re-envisioned
-publishing models are challenging the traditional journal genre,
-too. PeerJ, for example, is a recent open access platform that
-charges authors a small, one time fee. Articles are published when
-they are ready, and authors are allowed to publish as much as they
-desire over the course of their lifetime for no additional charge.
+The motivation for this study originates from recent scholarly
+communication trends and what these trends mean for the sciences,
+broadly defined. Specifically, despite the important role journals
+have had in creating communities and shaping identities, problems
+associated with the serials crisis and developments in emerging
+technologies have resulted in some researchers calling for an end
+to the genre. The arguments include a move to the article as a
+complete product in itself and to a market-based, decentralized
+infrastructure (Priem &amp; Hemminger, 2012) where identification,
+publication, storage, assessment, marketing, search, and
+preparation are taken over by entities other than the journal
+(Priem, 2013).
+
+In some cases, re-envisioned publishing models are challenging the
+traditional journal genre, too. *PeerJ*, for example, is a recent
+open access platform that charges authors a small, one time fee.
 The relevant requirement is that all authors assume peer review
-duties at least once per year (Van Noorden, 2012).
+duties at least once per year (Van Noorden, 2012). Furthermore,
+the platform publishes on a continuous basis and is not dependent
+on publishing actual serials. That is, articles are published soon
+after and subsequent to peer review and acceptance.
 
 Whether the rhetoric exhibited among the proponents of these
 trends is convincing, the arguments valid, or the outcomes
@@ -123,21 +133,26 @@ activities, it is true that many researchers are becoming more
 interested in adopting new dissemination technologies (Tatum &amp;
 Jankowski, 2013) or are required to communicate their data, their
 products, and their reports in more comprehensive ways (Piwowar,
-2013). These interests and requirements are already having a
-disruptive influence on the scholarly communication system (Cope
-&amp; Kalantzis, 2009).
+2013).
 
-Though the journal’s end time is not likely near, the scholarly
-communication system seems destined to have an increasingly
-dynamic future. Also, while adoption of radical new methods of
-communication may be more appropriate for some forms of science,
-the state of affairs does beg for reflection on what the journal
-has done for community. In the process, it will be important to
-know what, if anything, is lost for the culture of science if the
-journal is eventually dismissed.
+Though the journal's end time is not likely near, these interests
+and requirements are already having a disruptive influence on the
+scholarly communication system (Cope &amp; Kalantzis, 2009), which
+will have an increasingly dynamic future. Also, while adoption of
+radical new methods of communication may be more appropriate for
+some forms of science, the state of affairs does beg for
+reflection on what the journal has done for community. In the
+process, it will be important to know, if anything, is lost for
+the culture of science if the journal is eventually dismissed.
+
+---
+
+**Note: I removed the next few passages in the final submission of
+the conference abstract. But the idea expressed below remains an
+important part of the project:**
 
 Another aspect to consider is that an extreme focus on the
-article’s importance, at the cost of the journal’s, suggests
+article's importance, at the cost of the journal's, suggests
 implications with regards to the continued division of the reading
 unit. Tatum and Jankowski (2013) note that some open access
 publishers provide formats of articles that direct 

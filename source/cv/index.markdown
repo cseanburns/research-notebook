@@ -73,7 +73,7 @@ Stephens Library, Stephens College
 
 **Burns**, C. S. (2014, *Forthcoming*). Academic libraries and
 automation. A historical reflection on Ralph Halstead Parker.
-*portal: Libraries and the Academy*.
+*portal: Libraries and the Academy 14*(1).
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
@@ -211,14 +211,14 @@ London Borough of Barking &amp; Dagenham, United Kingdom, August,
 
 ### Invited Talks
 
-**Burns**, C. S. (2013). Evaluating research with altmetrics. Open
-Access Week, University of Kentucky Libraries, Lexington,
-Kentucky.
+**Burns**, C. S. (2013). #Altmetrics: Background and Overview.
+Open Access Week, University of Kentucky Libraries, Lexington,
+Kentucky. October 22, 2013.
+[Slides](http://uknowledge.uky.edu/oaweek2013/Program/Events/3/)
 
 **Burns**, C. S. (2011). Emerging technologies in scholarly
 communication.  In Dr. Heather L. Moulaison's ISLT 9410 Seminar:
-Emerging Technologies in Libraries, Columbia, Missouri, USA, November,
-2011  
+Emerging Technologies in Libraries, Columbia, Missouri, USA, November, 2011.  
 
 ### Posters
 
