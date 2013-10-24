@@ -19,9 +19,9 @@ url:[http://www.jstor.org/stable/4301858](http://www.jstor.org/stable/4301858)
 
 ---
 
-**Note:** The first article of the first issue of the first volume
-of *The Library Quarterly* is titled "Aspects of Education for
-Librarianship in America."
+**Note:** The first article of the first issue of the second
+volume of *The Library Quarterly* is titled "Aspects of Education
+for Librarianship in America."
 
 It was written by Louis R. Wilson, who was affiliated with:
 
