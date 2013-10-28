@@ -61,14 +61,15 @@ literature for teacher colleges:
 > middle room is known as the "children's room," and here the
 > children's librarian has her desk ... (p. 19).
 
-**Note:** I haven't read Matthew Griffis' dissertation [*Space,
+**Note:** I haven't read Matthew Griffis' dissertation ["Space,
 Power and the Public Library: A Multicase Examination of the
 Public Library as Organization
-Space](http://ir.lib.uwo.ca/etd/1103/), but I've heard him present
-a couple times (excellent presenter and very interesting topic)
-about the use of space in public libraries (within the context of
-[Michel Foucault](http://plato.stanford.edu/entries/foucault/) and
-the [*panopticon*](https://en.wikipedia.org/wiki/Panopticon)). I
+Space"](http://ir.lib.uwo.ca/etd/1103/), but I've heard him
+present a couple times (excellent presenter and very interesting
+topic) about the use of space in public libraries (within the
+context of [Michel
+Foucault](http://plato.stanford.edu/entries/foucault/) and the
+[*panopticon*](https://en.wikipedia.org/wiki/Panopticon)). I
 wonder how he'd comment on this passage, which suggests that the
 intent is to place the library's desk in a location that helps
 library users rather than librarians.
