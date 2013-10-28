@@ -81,8 +81,8 @@ process as it relates to "power and vulnerability," the process as
 it relates to "authority and deference," and the process as it
 relates to "intuition and prejudice" (p. 103).
 
-*Note*: The impact factor as a mechanism of power relations that
-cause certain actions on the part of editors.
+*Note*: The impact factor acts as a power relation mechanism that
+causes certain actions on the part of editors.
 
 *Note*: Interesting bit:
 
@@ -100,13 +100,12 @@ can employ a more selective, more conservative quality control
 mechanism (i.e., rejection).
 
 The above is an important consideration in evaluating PeerJ's
-reviews. Their (stated in the FAQ, I believe) is an acceptance
-rate of around 70%. Based on the above idea of quality control
-mechanism as a function, PeerJ editors, we can predict, will spend
-more time working with authors rather than outright rejecting
-manuscripts.
+reviews. Their (stated in the FAQ, I believe) acceptance rate is
+around 70%. Based on the above idea of quality control mechanism
+as a function, PeerJ editors, we can predict, will spend more time
+working with authors rather than outright rejecting manuscripts.
 
-For elite journals, the above process becomes more competitive but
+For elite journals, the above process becomes more competitive, but
 in the tier of other elite journals.
 
 Competition is also between editors and authors.

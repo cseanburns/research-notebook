@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "peerj research"
+title: "PeerJ Research 1"
 date: 2013-07-20 12:05
 comments: true
 categories: [peerj, research]
