@@ -14,12 +14,12 @@ For an explanation of this post, see:
 This entry is about:
 
 Sullivan, Donna E. (1932). Library Planning in Teacher-Training
-Institutions. *The Library Quarterly, 2*(2), 11-41.
+Institutions. *The Library Quarterly, 2*(1), 11-41.
 url:[http://www.jstor.org/stable/4301859](http://www.jstor.org/stable/4301859)
 
 ---
 
-**Note:** The first article of the first issue of the second
+**Note:** The second article of the first issue of the second
 volume of *The Library Quarterly* is titled "Library Planning in
 Teacher-Training Institutions."
 
