@@ -20,8 +20,8 @@ url:[http://www.jstor.org/stable/4301860](http://www.jstor.org/stable/4301860)
 ---
 
 **Note:** The third article of the first issue of the second
-volume of *The Library Quarterly* is titled "Library Planning in
-Teacher-Training Institutions."
+volume of *The Library Quarterly* is titled "The Relation of
+Subject Interests to Actual Reading."
 
 It was written by Douglas Waples, who was affiliated with:
 
