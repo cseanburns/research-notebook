@@ -335,6 +335,11 @@ theories." *Human Architecture: Journal of the Sociology of
 Self-Knowledge, 6*(2). Retrieved from
 [http://scholarworks.umb.edu/humanarchitecture/vol6/iss2/3/](http://scholarworks.umb.edu/humanarchitecture/vol6/iss2/3/)
 
+Cope, W. W., &amp; Kalantzis, M. (2009). Signs of epistemic
+disruption: Transformations in the knowledge system of the
+academic journal. *First Monday, 14*(4).
+doi:[10.5210/fm.v14i4.2309](http://dx.doi.org/10.5210/fm.v14i4.2309)
+
 Krippendorff, K. (2004). *Content Analysis: An Introduction to Its
 Methodology* (2nd ed.). Thousand Oaks, CA: Sage Publications.
 
@@ -343,15 +348,15 @@ and the ethics of journal peer review. *Social Epistemology,
 25*(1), 97-121.
 doi:[http://dx.doi.org/10.1080/02691728.2010.534567](http://dx.doi.org/10.1080/02691728.2010.534567)
 
-Merton, R. K. (1973). The Matthew effect in science. In N. W.
-Storer (Ed.), *The Sociology of Science: Theoretical and Empirical
-Investigations* (pp. 439-459). Chicago: University of Chicago
-Press.
-
 Merton, R. K. (1973). Institutionalized patterns of evaluation in
 science. In N. W. Storer (Ed.), *The Sociology of Science:
 Theoretical and Empirical Investigations* (pp. 460-496). Chicago:
 University of Chicago Press.
+
+Merton, R. K. (1973). The Matthew effect in science. In N. W.
+Storer (Ed.), *The Sociology of Science: Theoretical and Empirical
+Investigations* (pp. 439-459). Chicago: University of Chicago
+Press.
 
 Neuendorf, K. A. (2002). *The Content Analysis Guidebook*.
 Thousand Oaks, CA: Sage Publications.
