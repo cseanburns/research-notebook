@@ -79,15 +79,18 @@ provides footnotes for more reading) of the *ethos of science*:
 A few important points about the above:
 
 - The norms are expressed in the form of:
+
   * prescriptions
   * proscriptions
   * preferences
   * permissions
 
 - They are legitimized through:
+
   * institutional values
 
 - And internalized by:
+
   * scientists
 
 **Note:** Another important point:

@@ -6,6 +6,13 @@ comments: true
 categories: [peerj, research]
 ---
 
+This is the sixth set of notes on a research project about peer
+review. To access the collection of notes and log entries, see:
+
+[Category: PeerJ](/blog/categories/peerj)
+
+---
+
 Some of my *PeerJ* research will be discussed as part of a panel
 next week at [ASIS&amp;T](http://asis.org/asist2013/). Although my
 presentation is about a broader issue, I will use the *PeerJ*
@@ -126,7 +133,7 @@ The most pertinent from Cope and Kalantzis (2009):
 
 ## Examining Peer Review
 
-### Aesthetic disruption: Traditional peer review
+### Epistemic disruption: Traditional peer review
 
 In the traditional peer review process, there are these problems:
 
@@ -200,6 +207,12 @@ referees, and authors.
 
 ### *PeerJ* analysis
 
+*RQ-1:* Does the peer review process in *PeerJ* align or deviate
+from the normative view of science?
+
+*RQ-2:* Do *PeerJ* referees and editors judge submissions by
+aesthetic qualities?
+
 * Content analysis
 * Random sampling, July 20, 2013
 * Population 107 articles
@@ -219,13 +232,17 @@ referees, and authors.
 
 For 33 peer review histories:
 
-* 83 referee comments
-    * 70 comments after first round reviews
-    * 13 comments after second round reviews
-* 43 author rebuttals
-    * 29 first round author rebuttals
-    * 14 second round author rebuttals
-* 77 Academic editor comments
+*   83 referee comments
+
+    *   70 comments after first round reviews
+    *   13 comments after second round reviews
+
+*   43 author rebuttals
+
+    *   29 first round author rebuttals
+    *   14 second round author rebuttals
+
+*   77 Academic editor comments
 
 ## Examining Peer Review
 
@@ -247,6 +264,13 @@ Codes fit within one of the following categories, or concepts:
   rigor, objective criteria.
 * Aesthetic disruption. Terms related to aesthetics or taste:
   i.e., impact, novelty, interest, etc. 
+
+Categories and codes entered into
+[RQDA](http://rqda.r-forge.r-project.org/).
+
+Each file (referee comment, academic editor comment, author
+rebuttal) first coded for aesthetic terms and then coded for
+epistemic terms.
 
 ## Examining Peer Review
 
@@ -313,13 +337,20 @@ Terms related to *provocative*:
 
 ### *PeerJ* analysis: Findings
 
-Findings
+Analysis in process.
+
+| Concept   | # of Codings | # of Files |
+| --------  |:------------:| ----------:|
+| Aesthetic | 42 Codings   | 12 Files   |
+| Epistemic | 74 Codings   | 14 Files   |
 
 ## Examining Peer Review
 
 ### *PeerJ* analysis: Questions
 
-Discussion questions
+* Should the aesthetic be a part of the peer review process?
+* If so, should the process include criteria related to
+  originality, novelty, influence, taste?
 
 ## Note
 
@@ -339,6 +370,9 @@ Cope, W. W., &amp; Kalantzis, M. (2009). Signs of epistemic
 disruption: Transformations in the knowledge system of the
 academic journal. *First Monday, 14*(4).
 doi:[10.5210/fm.v14i4.2309](http://dx.doi.org/10.5210/fm.v14i4.2309)
+
+Huang, R. (2012). RQDA: R-based qualitative data analysis. R
+package version 0.2-3. URL: [http://rqda.r-forge.r-project.org/](http://rqda.r-forge.r-project.org/)
 
 Krippendorff, K. (2004). *Content Analysis: An Introduction to Its
 Methodology* (2nd ed.). Thousand Oaks, CA: Sage Publications.
