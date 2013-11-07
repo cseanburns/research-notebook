@@ -25,8 +25,7 @@ Forward note: John Budd made a remark at the beginning of the
 panel that the word *Deciding* really should have been something
 like *Investigating*. This is true. We are not the deciders.
 
-of judgment, in seizing upon problems that are of fundamental
-importance” (Merton,
+---
 
 ## High-Stakes Information:
 ### Deciding What Constitutes Quality in Our Products of Communication
