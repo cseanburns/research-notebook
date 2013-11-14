@@ -32,13 +32,11 @@ Other status judges or judgments include:
 - book reviewers
 - review articles
 
-**Reflection:** Would blogs and the like function in this way
-today? Perhaps this is either what things like altmetrics and
-similar proposals suggest, is what they need as a foundation, or
-more research to show that it is the case, that *alternate
-publishing* can function in this way. But then, the role of such
-things is not the creation of new knowledge but the check on such
-creations.
+**Reflection:** Would blogs about scientific reports and the like
+function in this way today? Perhaps this is either what things
+like altmetrics and similar proposals suggest. What they need some
+research to show that this is the case, that *alternate
+publishing* can function in this way.
 
 And, quoting footnote 1:
 
@@ -249,7 +247,7 @@ The goal here: what's a fair price?
 In essence, journals have an incentive to protect their brand
 (their imprimatur), so any calculation of impact should include a
 hit to that value (a cost). The cost should be "heavy," of course,
-but not game-able. This is very unsophisticated first line of
+but not game-able. This is a very unsophisticated first line of
 thought, but something along these lines should provide a greater
 incentive to maintain scientific rigor.
 
@@ -408,7 +406,7 @@ Types of relationships:
 - "When referees and authors are status peers, an hypothesis of
   *status solidarity* would have it that referees typically give
   preferential treatment to manuscripts, as as a ...
-- "counter-hypothesis of *status competition* would haveit that
+- "counter-hypothesis of *status competition* would have it that
   under the safeguard of anonymity, referees tend to undercut
   their rivals by unjustifiably severe judgements" (p. 489).
 - "When the authors outrank referees, an hypothesis of *status

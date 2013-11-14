@@ -83,11 +83,11 @@ A few important points about the above:
   * prescriptions
   * proscriptions
   * preferences
-  * permissions
+  * permissions  
 
 - They are legitimized through:
 
-  * institutional values
+  * institutional values  
 
 - And internalized by:
 
@@ -96,7 +96,7 @@ A few important points about the above:
 **Note:** Another important point:
 
 > The institutional goal of science is the extension of
-> *certified* knowledge \[emphasis added\] (p. 270).
+> **certified** knowledge \[emphasis added\] (p. 270).
 
 Thus, I emphasize the term *certified* because it's an essential
 qualifier of the term *knowledge*. Philosophers might argue that

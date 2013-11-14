@@ -268,8 +268,8 @@ And the next sentence, which I separate just to emphasize the
 notion of *merely extensive*:
 
 > Since they prefer their published work to be significant and
-> fruitful rather than *merely extensive*, their contributions are
-> apt to matter \[emphasis added\] (p. 455).
+> fruitful rather than **merely extensive**, their contributions
+> are apt to matter \[emphasis added\] (p. 455).
 
 **Note:** Whether this is still true; that is, whether effective
 social media campaigns can *bootstrap* the Matthew effect:
