@@ -142,10 +142,11 @@ Quarterly*. 2014 Association for Library and Information Science
 (ALISE) Annual Conference, Philadelphia, Pennsylvania, USA,
 January, 2014.
 
-Budd, J. M., **Burns**, C. S., &amp; Moulaison, H. M. (2013,
-*Forthcoming*). High-stakes information: Deciding what constitutes
-quality in our products of communication. Proceedings of the
-Association for Information Science &amp; Technology.
+Budd, J. M., **Burns**, C. S., &amp; Moulaison, H. M. (2013).
+High-stakes information: Deciding what constitutes quality in our
+products of communication. Proceedings of the Association for
+Information Science &amp; Technology. URL:
+[http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf](http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf)
 
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012).
 Institutional repositories: Costs and benefits. 40th Annual
