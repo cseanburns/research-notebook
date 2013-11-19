@@ -184,7 +184,7 @@ remains:
 > The goal of the [peer-review] procedure is to "give constructive
 > feedback to the authors and/or to **prevent publication of
 > uninteresting** or fatally flawed articles (*Journal of Medical
-> Internet Research, 2012*)" \[emphasis added\].
+> Internet Research, 2012*)" \[emphasis added\] (p. 12).
 
 ## Aesthetic disruption: Taste and judgment 
 
