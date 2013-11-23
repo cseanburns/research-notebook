@@ -91,3 +91,5 @@ I have the following variables:
   recorded on August 20, 2013.
 * TopRefTotal-Nov: Same as above and as recorded on November 20,
   2013.
+* R1.1: Word count of the first review by the first referee
+* R2.1: Word count of the first review by the second referee
