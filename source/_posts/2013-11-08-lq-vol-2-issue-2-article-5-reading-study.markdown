@@ -13,8 +13,8 @@ For an explanation of this post, see:
 
 This entry is about:
 
-Arnold K. Borden. (1932). Seventeeth-Century American Libraries. *The
-Library Quarterly, 2*(2), 135-137.
+Borden, Arnold K. (1932). Seventeeth-Century American Libraries.
+*The Library Quarterly, 2*(2), 135-137.
 url:[http://www.jstor.org/stable/4301881](http://www.jstor.org/stable/4301881)
 
 ---
