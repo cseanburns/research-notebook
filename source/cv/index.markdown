@@ -8,6 +8,7 @@ footer: true
 ---
 
 School of Library and Information Science (SLIS)  
+College of Communication and Information  
 University of Kentucky  
 Lexington, KY 40506  
 +1 210 704 7326  
@@ -77,9 +78,10 @@ open access strategies. In D. Williams &amp; J. Golden (Eds.),
 
 ### Refereed Journal Articles
 
-**Burns**, C. S. (2014, *Forthcoming*). Academic libraries and
-automation. A historical reflection on Ralph Halstead Parker.
-*portal: Libraries and the Academy, 14*(1).
+**Burns**, C. S. (2014). Academic libraries and automation. A
+historical reflection on Ralph Halstead Parker. *portal: Libraries
+and the Academy, 14*(1), 87-102. [PDF
+Pre-print](http://www.press.jhu.edu/journals/portal_libraries_and_the_academy/portal_pre_print/current/articles/14.1burns.pdf)
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
@@ -281,7 +283,7 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 *American Library Association (ALA), 2008-present*  
 
-*American Society for Information Science &amp; Technology
+*Association for Information Science &amp; Technology
 (ASIS&amp;T), 2009 -- Present*  
 
 - Membership Officer, SIG-MET, ASIS&amp;T, 2014
