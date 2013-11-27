@@ -14,8 +14,8 @@ For an explanation of this post, see:
 This entry is about:
 
 Leland, Simeon E. (1932). Observations on Financing
-Libraries. *The Library Quarterly, 2*(3), 344-366.
-url:[http://www.jstor.org/stable/4301920](http://www.jstor.org/stable/4301927)
+Libraries. *The Library Quarterly, 2*(4), 344-366.
+url:[http://www.jstor.org/stable/4301920](http://www.jstor.org/stable/4301920)
 
 ---
 
