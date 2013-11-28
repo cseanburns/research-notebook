@@ -11,11 +11,8 @@ For an explanation of this post, see:
 
 ---
 
-As of the last article, I have completed a reading of the
-first two volumes of *The Library Quarterly*. By my count,
-this equals 672 pages of reading and 45 articles with an
-average of 15 pages per article (*Mdn* = 11). Two more volumes to
-go.
+As of the last article, I have completed a reading of the first
+two volumes of *The Library Quarterly*. Two more volumes to go.
 
 This has been an eye opening experience and I'm incredibly
 excited about the next two volumes. For some reason, I have the
@@ -23,3 +20,85 @@ feeling that the third volume will mark a turning point. I'm not
 sure why I feel this way or if it indeed will be true. I need to
 quicken the pace and complete the next two volumes by the end of
 December or the first week of January.
+
+---
+
+Basic stats:
+
+* 45 articles
+* 40 articles with one author
+* 4 articles with two authors
+* 1 article with three authors
+* 672 pages total
+* 15 average pages per article (11 *Mdn*)
+
+A number of authors have contributed more than one
+article in these first two volumes:
+
+* Douglas Waples (University of Chicago) = 5 articles
+* Ernest J. Reece (Columbia University) = 3 articles
+* William M. Randall (University of Chicago) = 3 articles (2 as
+  first author and 1 article as 3rd author)
+* Floyd W. Reeves (University of Chicago) = 2 articles
+* Carlton B. Joeckel (University of Michigan) = 2 articles
+* Arnold K. Borden (Dartmouth College) = 2 articles
+* Leon Carnovsky (University of Chicago) = 2 articles (1
+  article as first author and 1 article as second author)
+
+A number of affiliations are represented but the University of
+Chicago dominates (no affiliation indicates that the author did
+not have a stated affiliation on the article):
+
+* University of Chicago = 16 articles
+* No affiliation = 4 articles
+* Columbia University = 4 articles
+* University of Michigan = 3 articles
+* University of North Carolina = 2 articles
+* Dartmouth College = 2 articles
+
+---
+
+Given how I'm categorizing these posts (as afforded by
+[Octopress](http://octopress.org/)), which are simple text files
+written in [Markdown](http://maruku.rubyforge.org/maruku.html),
+the above counts are collected with some basic
+[BASH](http://www.tldp.org/LDP/abs/html/) one-liners, the results
+are outputed to a CSV file, cleaned with search and replace (in
+[Vim](http://www.vim.org/)), and then imported into
+[R](http://www.r-project.org/).
+
+BASH one-liners:
+
+    # Navigate to post directory: octopress/source/_posts/
+    # Print all authors for files containg lq in title
+    # Greps the metadata for category: e.g., Author-Waples
+
+    grep -ho "Author-[A-Za-z].*," *lq* >> $HOME/authors.csv
+
+    # Print all affiliations containing lq in title
+    # E.g., Affil-University of Chicago
+
+    grep -ho "Affil-[A-Za-z].*" *lq* >> $HOME/affil.csv
+
+I haven't tested this out in a rigorous way, but something like
+the following should lead the way for counting the pages of the
+articles by grepping the bibliographic reference at the top of
+each post:
+
+    grep -ho "([0-9]), [0-9].*-[0-9].*" *lq* >> $HOME/pages.csv
+
+Or this:
+
+    grep -ho "Quarterly, [0-9]\*([0-9]), [0-9].*-[0-9].*' *lq-vol*" >> $HOME/pages.csv
+
+There is some error with the above two lines, so I'll need to
+investigate why. Probably some issue with my references. But after
+they're saved to the CSV file, open them in VIM and replace all
+hyphens with some other separator, or simply import into R and use
+the hyphen as a separator. E.g., after opening R:
+
+    pages <- read.csv("pages.csv", header = FALSE, sep = "-")
+
+The Octopress post source directory contains posts about topics
+other than the *LQ* study, so having a somewhat standard file
+naming system helps.
