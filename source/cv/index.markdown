@@ -258,7 +258,7 @@ doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.145046035
 
 IS 201/201: General Information Sources, Fall 2013  
 LIS 601/202: Information Seeking, Fall 2013  
-LIS 658: Knowledge Management  
+LIS 658: Knowledge Management, Spring 2014  
 
 ### University of Missouri, as Course Instructor
 
@@ -272,7 +272,7 @@ ISLT 7313: Managing Collections and Access, with Dr. John M. Budd, Spring 2011
 ISLT 7350: Foundations of Library and Information Science, with Dr. Linda Esser, Summer 2009  
 ISLT 9410: Seminar: Metadata, with Dr. Heather Moulaison, Spring 2013  
 ISLT 9410: Seminar: Social Constructs of Information, with Dr. Melanie Brooks, Spring 2010  
-ISLT 9412: Information Storage and Retrieval, with Dr. Thomas Kochtanek, Spring 2010/11
+ISLT 9412: Information Storage and Retrieval, with Dr. Thomas Kochtanek, Spring 2010/11  
 ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010  
 
 ## SERVICE
