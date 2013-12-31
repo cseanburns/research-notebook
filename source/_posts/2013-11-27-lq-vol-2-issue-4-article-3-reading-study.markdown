@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 2 Issue 4 Article 3: Reading Study"
 date: 2013-11-27 07:43
 comments: true
-categories: [LQ Autoethno Field Notes, research, Author-Gosnell, Author-2nd-Schütz, Affil-No Affil]
+categories: [LQ Autoethno Field Notes, research, Author-Gosnell, Author-Schütz, Affil-No Affil]
 ---
 
 For an explanation of this post, see:

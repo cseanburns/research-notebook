@@ -3,7 +3,7 @@ layout: post
 title: "LQ Vol 2 Issue 4 Article 1: Reading Study"
 date: 2013-11-25 16:20
 comments: true
-categories: [LQ Autoethno Field Notes, research, Author-Waples, Author-2nd-Carnovsky, Author-3rd-Randall, Affil-University of Chicago]
+categories: [LQ Autoethno Field Notes, research, Author-Waples, Author-Carnovsky, Author-Randall, Affil-University of Chicago]
 ---
 
 For an explanation of this post, see:
