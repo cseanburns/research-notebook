@@ -13,28 +13,28 @@ For an explanation of this post, see:
 
 This entry is about:
 
-Borden, Arnold K. (1932). Seventeeth-Century American Libraries.
+Borden, Arnold K. (1932). Seventeenth-Century American Libraries.
 *The Library Quarterly, 2*(2), 135-137.
 url:[http://www.jstor.org/stable/4301881](http://www.jstor.org/stable/4301881)
 
 ---
 
 **Note:** The fifth article of the second issue of the second
-volume of *The Library Quarterly* is titled "Seventeeth-Century
-American Libraries."
+volume of *The Library Quarterly* is titled
+"Seventeenth-Century American Libraries."
 
-It was written by Arnold K. Bordern, who was affiliated with:
+It was written by Arnold K. Borden, who was affiliated with:
 
 **Affiliation:** Dartmouth College
 
 **Note:** This is a really neat history. Consider how important a
 thesaurus was:
 
-> One gentleman, for instance, made a gift in 1849 to the Harvard
-> Library of a thesaurus, in four volumes, upon condition that he
-> would have free access to it at any time and that, in the event
-> of having a son who needed it, he might have the privilege of
-> recovery (pp. 139-140).
+> One gentleman, for instance, made a gift in 1849 to the
+> Harvard Library of a thesaurus, in four volumes, upon
+> condition that he would have free access to it at any time and
+> that, in the event of having a son who needed it, he might
+> have the privilege of recovery (pp. 139-140).
 
 **Note:** Nice description of the public library (p. 140) built by
 the will of Captain Robert Keayne (see also Jesse Shera's
