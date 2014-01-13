@@ -80,14 +80,14 @@ open access strategies. In D. Williams &amp; J. Golden (Eds.),
 
 **Burns**, C. S. (2014). Academic libraries and automation. A
 historical reflection on Ralph Halstead Parker. *portal: Libraries
-and the Academy, 14*(1), 87-102. [PDF
-Pre-print](http://www.press.jhu.edu/journals/portal_libraries_and_the_academy/portal_pre_print/current/articles/14.1burns.pdf)
+and the Academy, 14*(1), 87-102.
+[http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html)
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
 *Reference and User Services Quarterly, 53*(1), 60-70.
-doi:[10.5860/rusq.53n1.60](http://dx.doi.org/10.5860/rusq.53n1.60);
-[Open Access Copy: UKnowledge
+doi:[http://rusa.metapress.com/content/j3p25116j240811u/](http://rusa.metapress.com/content/j3p25116j240811u/);
+[Open Access copy: UKnowledge Institutional
 Repository](http://uknowledge.uky.edu/slis_facpub/5)
 
 **Burns**, C. S. &amp; Bossaller, J. (2012). Communication
@@ -132,7 +132,8 @@ Conference site:
 
 Adkins, D., &amp; **Burns**, C. S. (2011, December 15). How do
 Arizona's public libraries serve the Spanish-speaking? REFORMA
-Newsletter. URL: [http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36](http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36)  
+Newsletter. URL:
+[http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36](http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36)  
 
 ### Technical Reports
 
