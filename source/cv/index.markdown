@@ -80,7 +80,7 @@ open access strategies. In D. Williams &amp; J. Golden (Eds.),
 
 **Burns**, C. S. (2014). Academic libraries and automation. A
 historical reflection on Ralph Halstead Parker. *portal: Libraries
-and the Academy, 14*(1), 87-102.
+and the Academy, 14*(1), 87-102. URL:
 [http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html)
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
