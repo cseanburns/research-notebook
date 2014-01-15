@@ -81,13 +81,15 @@ open access strategies. In D. Williams &amp; J. Golden (Eds.),
 **Burns**, C. S. (2014). Academic libraries and automation. A
 historical reflection on Ralph Halstead Parker. *portal: Libraries
 and the Academy, 14*(1), 87-102. URL:
-[http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html)
+[http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html);
+[Open access copy: UKnowledge Institutional
+Repository](http://uknowledge.uky.edu/slis_facpub/6/)
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
 *Reference and User Services Quarterly, 53*(1), 60-70.
-doi:[http://rusa.metapress.com/content/j3p25116j240811u/](http://rusa.metapress.com/content/j3p25116j240811u/);
-[Open Access copy: UKnowledge Institutional
+URL: [http://rusa.metapress.com/content/j3p25116j240811u/](http://rusa.metapress.com/content/j3p25116j240811u/);
+[Open access copy: UKnowledge Institutional
 Repository](http://uknowledge.uky.edu/slis_facpub/5)
 
 **Burns**, C. S. &amp; Bossaller, J. (2012). Communication
