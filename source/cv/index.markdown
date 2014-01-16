@@ -147,11 +147,10 @@ site: Final report. Missouri Department of Transportation, Project #RI07-040
 
 ### Refereed Conference Abstracts
 
-**Burns**, C. S. (2014, *Forthcoming*). The scholarly journal and
-disciplinary identity: An autoethnographic reading of *The Library
-Quarterly*. 2014 Association for Library and Information Science
-(ALISE) Annual Conference, Philadelphia, Pennsylvania, USA,
-January, 2014.
+**Burns**, C. S. (2014). The scholarly journal and disciplinary
+identity: An autoethnographic reading of *The Library Quarterly*.
+2014 Association for Library and Information Science (ALISE)
+Annual Conference, Philadelphia, Pennsylvania, USA, January, 2014.
 
 Budd, J. M., **Burns**, C. S., &amp; Moulaison, H. M. (2013).
 High-stakes information: Deciding what constitutes quality in our
