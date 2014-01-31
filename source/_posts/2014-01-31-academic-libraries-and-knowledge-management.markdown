@@ -84,7 +84,7 @@ authors list three classes of this type of knowledge:
 - Knoweldge for Customers (KFC)
 
 They briefly describe *customer knowledge management systems*
-(CKMS). These helps manage activities related to customer
+(CKMS). These systems help manage activities related to customer
 knowledge management (CKM).
 
 The authors proceed to lay out the details of the case study,
@@ -106,7 +106,8 @@ labeled as tacit knowledge.
 
 On page 18, the authors parenthetically "define" tacit knowledge
 as knowledge that is "generally understood" and "taken for
-granted" (p. 18).
+granted" (p. 18). (This is a common, more recent way of defining
+tacit knowledge and not in line with how Polanyi defines it.)
 
 The authors discuss the "categorization scheme" and refer to this
 as a "*customer knowledge taxonomy*." They write that
@@ -127,16 +128,20 @@ write:
 > From an organizational perspective, customers' knowledge can be
 > categorized into at least the following three classes (p. 10).
 
-And they then describe KAC, KRC, and KFC (see above). 
+And they then describe KAC, KRC, and KFC (see above). Again, the
+process is not clear. Were these pre-existing or derived or both?
+The authors mention basing this study on KM literature as well as
+this case study, so perhaps both.
 
 So KAC, KRC, and KFC are the coding schemes used to analyze and
 label each "'customer call report'" (p. 19). The authors went
 through quite a bit of work to examine these reports and label
 parts of the sentences or sentences that could be identified as
-relevant to the category. Even though they write that each of
-these three categories were subdivided into tacit and explicit
-knowledge, it's not clear how the subclasses were used in practice
-for the call reports.
+relevant to the category. (Seems like a lot of work for so few
+categories.) Even though they write that each of these three
+categories were subdivided into tacit and explicit knowledge, it's
+not clear how the subclasses were used in practice for the call
+reports.
 
 The authors do not review library related literature (there are
 one or two library related journals in the references).
@@ -150,23 +155,23 @@ academic libraries should be viewed as participants in a market.
 And as participants in a market, they exchange goods and services
 with their "customers," which include undergraduate students,
 postgraduate students, and academics. The goods and services that
-are exchanged, according to my explanation of their theoretical
-understanding, is knowledge. Knowledge then is given to students
+are exchanged is knowledge. Knowledge then is given to students
 and academics, in regards to their information needs, and
-knowledge is received from students and academics. The received
-knowledge is internalized by librarians and used in later
-"transactions" (I don't believe the authors actually use that
-term). Leaving the knowledge internalized (or tacit), however,
-means that the librarians are failing fully to "capitalize" (I'm
-being consistent in my translation of their underlying framework)
-on the knowledge they receive from their customers (who are
-"active knowledge partners"). To capitalize on the received
-knowledge, the librarians must be able to code that knowledge.
-When the coding scheme, or classification, (knowledge from
-customers, knowledge for customers, knowledge about customers) is
-applied to reports of exchanges between librarians and their
-"customers," (the taxonomy), the result is a customer knowledge
-management system.
+knowledge is received from students and academics by the
+librarians. This is the essential two way exchange that makes this
+a market. The received knowledge is internalized by librarians and
+used in later "transactions" (I don't believe the authors actually
+use that term). Leaving the knowledge internalized (or tacit),
+however, means that the librarians are failing fully to
+"capitalize" (I don't believe they use this term) on the knowledge
+they receive from their customers (who are "active knowledge
+partners"). To capitalize on the received knowledge, the
+librarians must be able to code that knowledge (aka, knowledge
+codification). When the coding scheme, or classification, (i.e.,
+knowledge from customers, knowledge for customers, knowledge about
+customers) is applied to reports of exchanges between librarians
+and their "customers," (the taxonomy), the result is a customer
+knowledge management system.
 
 In short, the KM as applied in this paper has a theory and the
 theory is simply this: **knowledge is a commodity**.
@@ -174,7 +179,9 @@ theory is simply this: **knowledge is a commodity**.
 While I have some issues with how this report is presented (it
 could have been a bit more linear), a basic refutation of this
 paper (or acceptance of it) will involve addressing the above
-proposition.
+proposition that knowledge is a commodity. I'll withhold a
+critique of that theoretical perspective for the moment, but it
+does need to be addressed at some point.
 
 **Note:** I'd have to come back to it, but I have not addressed
 how well the authors answered their research question, or the
