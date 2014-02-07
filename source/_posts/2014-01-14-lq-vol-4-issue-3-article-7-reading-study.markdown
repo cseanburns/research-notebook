@@ -14,7 +14,7 @@ For an explanation of this post, see:
 This entry is about:
 
 Spratt, H. P. (1934). Notes on Some Scientific and Technical
-Libraries of Norther Europe. *The Library Quarterly, 4*(3),
+Libraries of Northern Europe. *The Library Quarterly, 4*(3),
 467-486.
 url:[http://www.jstor.org/stable/4302095](http://www.jstor.org/stable/4302095)
 
