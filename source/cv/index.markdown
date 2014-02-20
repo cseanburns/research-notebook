@@ -72,9 +72,10 @@ Stephens Library, Stephens College
 
 ### Book Chapters
 
-**Burns**, C. S. (2014, *Forthcoming*). Academic libraries and
-open access strategies. In D. Williams &amp; J. Golden (Eds.),
-*Advances in Library Administration and Organization*.  
+**Burns**, C. S. (2014). Academic libraries and open access
+strategies. In D. Williams &amp; J. Golden (Eds.), *Advances in
+Library Administration and Organization, 32*, pp. 147-211.
+doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003)
 
 ### Refereed Journal Articles
 
