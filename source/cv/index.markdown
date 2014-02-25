@@ -14,6 +14,8 @@ Lexington, KY 40506
 +1 210 704 7326  
 sean.burns@uky.edu  
 sean.csb@gmail.com  
+[@burnscsb](https://twitter.com/burnscsb)  
+[+cseanburns](https://plus.google.com/+CSeanBurns/posts)  
 
 ## RESEARCH INTERESTS
 
@@ -294,6 +296,8 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 *Association for Library &amp; Information Science Education
 (ALISE), 2009 -- Present*  
+
+- Member, Nominating Committee, ALISE, 2014 -- Present
 
 - Member, Centennial Celebration Committee, ALISE, 2013 -- Present   
 
