@@ -34,7 +34,7 @@ destination: public/journal
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: maruku
+markdown: kramdown
 rdiscount:
   extensions:
     - autolink
