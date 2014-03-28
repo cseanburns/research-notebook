@@ -77,7 +77,9 @@ Stephens Library, Stephens College
 **Burns**, C. S. (2014). Academic libraries and open access
 strategies. In D. Williams &amp; J. Golden (Eds.), *Advances in
 Library Administration and Organization, 32*, pp. 147-211.
-doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003)
+doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003);
+[Post-print OA copy: UKnowledge Institutional
+Repository](http://uknowledge.uky.edu/slis_facpub/8/)
 
 ### Refereed Journal Articles
 
@@ -85,8 +87,7 @@ doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140
 historical reflection on Ralph Halstead Parker. *portal: Libraries
 and the Academy, 14*(1), 87-102. URL:
 [http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html);
-[Open access copy: UKnowledge Institutional
-Repository](http://uknowledge.uky.edu/slis_facpub/6/)
+[Open access copy: UKnowledge Institutional Repository](http://uknowledge.uky.edu/slis_facpub/6/)
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
@@ -261,14 +262,16 @@ doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.145046035
 
 ### University of Kentucky, as Assistant Professor
 
-IS 201/201: General Information Sources, Fall 2013  
-LIS 601/202: Information Seeking, Fall 2013  
+IS 201: General Information Sources, Fall 2013  
+LIS 601: Information Seeking, Fall 2013, Fall 2014  
+LIS 603: Management in Library and Information Science, Summer 2014  
+LIS 621: Introduction to Information Services, Fall 2014  
 LIS 658: Knowledge Management, Spring 2014  
 
 ### University of Missouri, as Course Instructor
 
 ISLT 7314: Reference Sources and Services, Spring 2012  
-ISLT 9420: Information in the Disciplines (Scholarly Communications), Spring 2013  
+ISLT 9420: Information in the Disciplines, Spring 2013  
 ISLT 9443: Academic Libraries, Fall 2011  
 
 ### University of Missouri, as Graduate Teaching Assistant
