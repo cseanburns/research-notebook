@@ -335,6 +335,11 @@ Graduate Student Association, 2008 -- 2009
 
 ## SCHOLARSHIPS & AWARDS
 
+### International
+
+Beta Phi Mu, International Library &amp; Information Studies Honor
+Society, Invited 2014
+
 ### National
 
 Eugene Garfield Doctoral Dissertation Fellowship - Beta Phi Mu, 2012  
