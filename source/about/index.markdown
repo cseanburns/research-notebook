@@ -18,10 +18,12 @@ behaviors, practices, norms, and so forth impact academic
 libraries and librarians?
 
 The motivation for this site is to keep a public log of my
-research notes. I do not consider any post a final product and
-will make minor and major revisions to specific posts after they
-have been pushed to the site. All revisions are hosted on
-[GitHub][1], where past instances of a post or page may be viewed.
+research notes (at least anything that can be shared with the
+public, such as notes on readings and some kinds of data
+collection). I do not consider any post a final product and will
+make minor and major revisions to specific posts after they have
+been pushed to the site. All revisions are hosted on [GitHub][1],
+where past instances of a post or page may be viewed.
 
 I am in the process of evaluating whether I want to add a
 commenting system to this site (e.g., disqus), and if so, which
