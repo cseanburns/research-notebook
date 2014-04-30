@@ -15,7 +15,9 @@ and research methods and methodologies. I'm particularly
 interested in those phenomena that have substantial impact on
 academic libraries and librarianship. For example, how do trends,
 behaviors, practices, norms, and so forth impact academic
-libraries and librarians?
+libraries and librarians? I'm currently working on a research
+project related to peer review and another project related to the
+history of library science.
 
 The motivation for this site is to keep a public log of my
 research notes (at least anything that can be shared with the

@@ -31,8 +31,7 @@ in Library and Information Science, Supporting Field in
 Philosophy, May 2013
 
 - Dissertation: [Free or Open Access to Scholarly Documentation:
-  Google Scholar or Academic
-  Libraries](http://hdl.handle.net/10355/37582)  
+  Google Scholar or Academic Libraries](http://hdl.handle.net/10355/37582)  
 
 - Advisor: John M. Budd  
 
@@ -121,8 +120,8 @@ doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
 ### Moderated Journal Articles
 
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (January/February
-2013). *Institutional repositories: Exploration of costs and value.
-D-Lib Magazine, 19*(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
+2013). Institutional repositories: Exploration of costs and value.
+*D-Lib Magazine, 19*(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
 
 ### Refereed Proceedings Papers
 
@@ -304,17 +303,20 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 - Member, Centennial Celebration Committee, ALISE, 2013 -- Present   
 
-- Chair, Award for Professional Contribution to Library and Information
-Science, ALISE, 2014  
+- Convener with Susan Rathbun-Grubb, Historical Perspectives
+  Special Interest Group, 2015  
 
-- Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
-Group, ALISE, 2014
+- Chair, Award for Professional Contribution to Library and
+  Information Science, ALISE, 2014  
 
-- Convener with Ellen M. Pozzi, Historical Perspectives Special Interest
-Group, ALISE, 2013  
+- Convener with Ellen M. Pozzi, Historical Perspectives Special
+  Interest Group, ALISE, 2014
 
-- Member, Award for Professional Contribution to Library and Information
-Science, 2013  
+- Convener with Ellen M. Pozzi, Historical Perspectives Special
+  Interest Group, ALISE, 2013  
+
+- Member, Award for Professional Contribution to Library and
+  Information Science, 2013  
 
 *Canadian Association for Information Science (CAIS), 2010 -- 2013*  
 
@@ -339,8 +341,6 @@ Graduate Student Association, 2008 -- 2009
 
 Beta Phi Mu, International Library &amp; Information Studies Honor
 Society, Invited 2014
-
-### National
 
 Eugene Garfield Doctoral Dissertation Fellowship - Beta Phi Mu, 2012  
 
