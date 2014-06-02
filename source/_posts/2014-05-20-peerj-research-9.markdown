@@ -178,6 +178,8 @@ Data points added on February 20, 2014:
 
 Data points added on May 20, 2014:
 
+* **Scopus_May**: Citation counts from Scopus.
+* **GS_May**: Citation counts from Google Scholar.
 * **Downloads-May**: PeerJ now displays on article pages the
   number of times article was downloaded. This new data point was
   added.
