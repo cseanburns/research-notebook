@@ -71,11 +71,11 @@ I have the following variables:
 * **NoRevisions**: Numerical variable indicating the number of
   revisions the manuscript went through before being accepted. The
   higher the number, the more revisions. The range is *0-2*.
-* **RevStanding-1**: Categorical variable indicating whether the
+* **RevStanding1**: Categorical variable indicating whether the
   first revision was accepted after no revisions, minor revisions,
   or major revisions. Values include: None, Minor, Major, and
   *na*.
-* **RevStanding-2**: Same as RevStanding-1 except the values
+* **RevStanding2**: Same as RevStanding-1 except the values
   indicate category of acceptance after the second revision of the
   manuscript. The range of data is either Minor or *na*.
 
@@ -86,75 +86,74 @@ The following two variables are held in separate CSV files.
 
 ### Use Variables
 
-* **UniqueVisitors-Aug**: The count of unique visitors to an
+* **UniqueVisitorsAug**: The count of unique visitors to an
   article's page, as provided by *PeerJ*, and as recorded on
   August 20, 2013.
-* **UniqueVisitors-Nov**: Same as above and as recorded on
-  November 20, 2013.
-* **UniqueVisitors-Feb**: Same as above and as recorded on
-  February 20, 2014.
-* **UniqueVisitors-May**: Same as above and as recorded on
-  May 20, 2014.
-
----
-
-* **Pageviews-Aug**: The count of unique page views to an
-  article's page, as provided by *PeerJ*, and as recorded on
-  August 20, 2013.
-* **Pageviews-Nov**: Same as above and as recorded on November 20,
-  2013.
-* **Pageviews-Feb**: Same as above and as recorded on February 20,
-  2014.
-* **Pageviews-May**: Same as above and as recorded on May 20,
-  2014.
-
----
-
-* **SocRefUniq-Aug**: The unique count of social referrals to an
-  article's page, as provided by *PeerJ*, and as recorded on
-  August 20, 2013.
-* **SocRefUniq-Nov**: Same as above and as recorded on November
+* **UniqueVisitorsNov**: Same as above and as recorded on November
   20, 2013.
-* **SocRefUniq-Feb**: Same as above and as recorded on February
+* **UniqueVisitorsFeb**: Same as above and as recorded on February
   20, 2014.
-* **SocRefUniq-May**: Same as above and as recorded on May 20,
+* **UniqueVisitorsMay**: Same as above and as recorded on May 20,
   2014.
 
 ---
 
-* **SocRefTotal-Aug**: The total number of referrals by all social
+* **PageviewsAug**: The count of unique page views to an article's
+  page, as provided by *PeerJ*, and as recorded on August 20,
+  2013.
+* **PageviewsNov**: Same as above and as recorded on November 20,
+  2013.
+* **PageviewsFeb**: Same as above and as recorded on February 20,
+  2014.
+* **PageviewsMay**: Same as above and as recorded on May 20, 2014.
+
+---
+
+* **SocRefUniqAug**: The unique count of social referrals to an
+  article's page, as provided by *PeerJ*, and as recorded on
+  August 20, 2013.
+* **SocRefUniqNov**: Same as above and as recorded on November 20,
+  2013.
+* **SocRefUniqFeb**: Same as above and as recorded on February 20,
+  2014.
+* **SocRefUniqMay**: Same as above and as recorded on May 20,
+  2014.
+
+---
+
+* **SocRefTotalAug**: The total number of referrals by all social
   referrals to an article's page, as provided by *PeerJ*, and as
   recored on August 20, 2013.
-* **SocRefTotal-Nov**: Same as above and as recorded on November
+* **SocRefTotalNov**: Same as above and as recorded on November
   20, 2013.
-* **SocRefTotal-Feb**: Same as above and as recorded on February
+* **SocRefTotalFeb**: Same as above and as recorded on February
   20, 2014.
-* **SocRefTotal-May**: Same as above and as recorded on May 20,
+* **SocRefTotalMay**: Same as above and as recorded on May 20,
   2014.
 
 ---
 
 
-* **TopRefUniq-Aug**: The unique count of web referrals to an
+* **TopRefUniqAug**: The unique count of web referrals to an
   article's page, as provided by *PeerJ*, and as recorded on
   August 20, 2013.
-* **TopRefUniq-Nov**: Same as above and as recorded on November
-  20, 2013.
-* **TopRefUniq-Feb**: Same as above and as recorded on February
-  20, 2014.
-* **TopRefUniq-May**: Same as above and as recorded on May 20,
+* **TopRefUniqNov**: Same as above and as recorded on November 20,
+  2013.
+* **TopRefUniqFeb**: Same as above and as recorded on February 20,
+  2014.
+* **TopRefUniqMay**: Same as above and as recorded on May 20,
   2014.
 
 ---
 
-* **TopRefTotal-Aug**: The total number of referrals by all web
+* **TopRefTotalAug**: The total number of referrals by all web
   referrals to an article's page, as provided by *PeerJ*, and as
   recorded on August 20, 2013.
-* **TopRefTotal-Nov**: Same as above and as recorded on November
+* **TopRefTotalNov**: Same as above and as recorded on November
   20, 2013.
-* **TopRefTotal-Feb**: Same as above and as recorded on February
+* **TopRefTotalFeb**: Same as above and as recorded on February
   20, 2014.
-* **TopRefTotal-May**: Same as above and as recorded on May 20,
+* **TopRefTotalMay**: Same as above and as recorded on May 20,
   2014.
 
 ---
@@ -165,11 +164,11 @@ Data points added on February 20, 2014:
   article was promoted as part of the [PeerJ Picks 2014
   Collection][1] or, as of May 20, 2013, was promoted as part of
   the [The Line Islands Collection][2].
-* **Correction-Minor**: Categorical variable indicating whether
-  there is a post-publication correction to the article. At this
-  point, the categories are: **minor**.
-* **Scopus_Feb**: Citation counts from Scopus.
-* **GS_Feb**: Citation counts from Google Scholar. Note that
+* **Correction**: Categorical variable indicating whether there is
+  a post-publication correction to the article. At this point, the
+  categories are: **minor**.
+* **ScopusFeb**: Citation counts from Scopus.
+* **GSFeb**: Citation counts from Google Scholar. Note that
   article 10.7717/peerj.22 was not discoverable from Google
   Scholar and required a title search in Google Web in order to
   retrieve the citation count.
@@ -178,16 +177,67 @@ Data points added on February 20, 2014:
 
 Data points added on May 20, 2014:
 
-* **Scopus_May**: Citation counts from Scopus.
-* **GS_May**: Citation counts from Google Scholar.
-* **Downloads-May**: PeerJ now displays on article pages the
+* **ScopusMay**: Citation counts from Scopus.
+* **GSMay**: Citation counts from Google Scholar.
+* **DownloadsMay**: PeerJ now displays on article pages the
   number of times article was downloaded. This new data point was
   added.
 
 Wayback Machine confirms article download information was added in
-the last three months. E.g.:
+the last three months. E.g.: [Article 107 on Wayback Machine][3]
 
-[http://web.archive.org/web/20131026113907/https://peerj.com/articles/107/](http://web.archive.org/web/20131026113907/https://peerj.com/articles/107/)
+---
 
-[1]: https://peerj.com/collections/5-peerjpicks/
-[2]: https://peerj.com/collections/1-line-islands/
+Additional four columns marking the date of data collection.
+
+---
+
+On June 17, 2014, gathered information on citing journals.
+Collected information for two additional tables of data:
+
+Citing Titles 1:
+
+* **doi**: DOI of original sample.
+* **ScopusMay**: Citation count of DOI as of 5/20/2014.
+* **title[0-7]**: Name of title citing DOI as of 5/20/2014.
+  Maximum Scopus measured citations is 7.
+
+Citing Titles 2:
+
+* **title**: Title information only for journals that cited the
+  PeerJ articles as of May 20, 2014. Gathered data from Scopus.
+* **SJR2012**: [SJR (SCImago Journal Rank)][5] 2012 for each
+  citing journal, collected from Scopus.
+* **SNIP2012**: [SNIP (Source Normalized Impact per Paper)][6] for
+  each citing journal, collected from Scopus.
+
+**ArchivePolicy**: Archive Policy for each journal, collected from
+[SHERPA / RoMEO][4]. Levels include:
+
+* **Green**: "Can archive pre-print and post-print or publisher's
+  version/PDF"
+* **Blue**: "Can archive post-print (ie final draft
+  post-refereeing) or publisher's version/PDF:
+* **Yellow**: "Can archive pre-print (ie pre-refereeing)"
+* **White**: "Archiving not formally supported"
+* **ungraded**: SHERPA / RoMEO has not yet determined archive
+  policy of journal.
+
+**OAStatus**: Open Access status of Journal, collected from SHERPA
+/ RoMEO. Levels include:
+
+* **Paid OA**: "A paid open access option is **available** for
+  this journal." I.e., not normally a gold open access journal,
+  but authors have an option to make their article OA upon
+  payment.
+* **No-paid OA**: "This journal is not in the list for the paid
+  open access option." I.e., not a gold open access journal.
+* **DOAJ**: "DOAJ as an open access journal."  A gold open access
+  journal.
+
+[1]: https://peerj.com/collections/5-peerjpicks/ "PeerJ Picks 2014"
+[2]: https://peerj.com/collections/1-line-islands/ "The Line Islands Collection"
+[3]: http://web.archive.org/web/20131026113907/https://peerj.com/articles/107/ "PeerJ Wayback Machine"
+[4]: http://www.sherpa.ac.uk/romeo/ "SHERPA / RoMEO"
+[5]: http://www.journalmetrics.com/sjr.php "SJR"
+[6]: http://www.journalmetrics.com/snip.php "SNIP"
