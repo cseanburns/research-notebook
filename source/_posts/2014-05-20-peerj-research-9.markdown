@@ -68,9 +68,10 @@ I have the following variables:
   A value of *na* indicates no information available and is
   assigned to those articles without a publicly available peer
   review history.
-* **NoRevisions**: Numerical variable indicating the number of
+* **NoRevisions**: Categorical variable indicating the number of
   revisions the manuscript went through before being accepted. The
-  higher the number, the more revisions. The range is *0-2*.
+  three levels include No Revision, One Revision, and Two
+  Revisions.
 * **RevStanding1**: Categorical variable indicating whether the
   first revision was accepted after no revisions, minor revisions,
   or major revisions. Values include: None, Minor, Major, and
