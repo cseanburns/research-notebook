@@ -236,6 +236,16 @@ Citing Titles 2:
 * **DOAJ**: "DOAJ as an open access journal."  A gold open access
   journal.
 
+---
+
+On June 23, 2014, gathered additional author information:
+
+* **Gender**: Three level categorical variable indicating the gender of the
+  authors: Mixed (female and male authors), Female (all female authors), Male
+  (all male authors).
+* **FemaleFirst**: Binary variable (yes/no) indicating whether the first author
+  is female.
+
 [1]: https://peerj.com/collections/5-peerjpicks/ "PeerJ Picks 2014"
 [2]: https://peerj.com/collections/1-line-islands/ "The Line Islands Collection"
 [3]: http://web.archive.org/web/20131026113907/https://peerj.com/articles/107/ "PeerJ Wayback Machine"

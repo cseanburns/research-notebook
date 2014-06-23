@@ -27,10 +27,13 @@ make minor and major revisions to specific posts after they have
 been pushed to the site. All revisions are hosted on [GitHub][1],
 where past instances of a post or page may be viewed.
 
-I am in the process of evaluating whether I want to add a
-commenting system to this site (e.g., disqus), and if so, which
-commenting system. In the meantime, if you would like to respond
-to any of my posts, please feel free to email me
+Old posts from a previous blogging platform but with this same domain were
+transferred to
+[http://cseanburns.blogspot.com/](http://cseanburns.blogspot.com/).
+
+I am still considering whether I want to add a commenting system to this site
+(e.g., disqus), and if so, which commenting system. In the meantime, if you
+would like to respond to any of my posts, please feel free to email me
 (sean.burns@uky.edu) or ping me on twitter at
 [@burnscsb](https://twitter.com/burnscsb).
 
