@@ -261,9 +261,8 @@ doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.145046035
 
 ### University of Kentucky, as Assistant Professor
 
-IS 201: General Information Sources, Fall 2013  
-LIS 601: Information Seeking, Fall 2013, Fall 2014  
-LIS 603: Management in Library and Information Science, Summer 2014  
+IS 201: General Information Sources, Fall 2014, Summer 2014, Fall 2013  
+LIS 601: Information Seeking, Fall 2013  
 LIS 621: Introduction to Information Services, Fall 2014  
 LIS 658: Knowledge Management, Spring 2014  
 
@@ -288,39 +287,31 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 #### Memberships
 
-*American Library Association (ALA), 2008-present*  
+##### American Library Association (ALA), 2008-present
 
-*Association for Information Science &amp; Technology
-(ASIS&amp;T), 2009 -- Present*  
+##### Association for Information Science &amp; Technology (ASIS&amp;T), 2009 -- Present
 
-- Membership Officer, SIG-MET, ASIS&amp;T, 2014
-- Membership Officer, SIG-MET, ASIS&amp;T, 2013
+- Membership Officer, SIG-MET, 2013 -- 2014
+- Membership Officer, SIG-MET, 2012 -- 2013
 
-*Association for Library &amp; Information Science Education
-(ALISE), 2009 -- Present*  
+##### Association for Library &amp; Information Science Education (ALISE), 2009 -- Present
 
-- Member, Nominating Committee, ALISE, 2014 -- Present
+**Committees**
 
-- Member, Centennial Celebration Committee, ALISE, 2013 -- Present   
+- Member, Centennial Celebration Committee, 2013 -- 2015
+- Member, Nominating Committee, 2014 -- 2015
+- Chair, Award for Professional Contribution to Library and Information Science, 2013 -- 2014  
+- Member, Award for Professional Contribution to Library and Information Science, 2012 -- 2013  
 
-- Convener with Susan Rathbun-Grubb, Historical Perspectives
-  Special Interest Group, 2015  
+**Special Interest Groups**
 
-- Chair, Award for Professional Contribution to Library and
-  Information Science, ALISE, 2014  
+- Convener, Historical Perspectives Special Interest Group, with Susan Rathbun-Grubb, 2014 -- 2015
+- Convener, Historical Perspectives Special Interest Group, with Ellen M. Pozzi, 2013 -- 2014
+- Convener, Historical Perspectives Special Interest Group,with Ellen M. Pozzi, 2012 -- 2013 
 
-- Convener with Ellen M. Pozzi, Historical Perspectives Special
-  Interest Group, ALISE, 2014
+##### Canadian Association for Information Science (CAIS), 2010 -- 2013
 
-- Convener with Ellen M. Pozzi, Historical Perspectives Special
-  Interest Group, ALISE, 2013  
-
-- Member, Award for Professional Contribution to Library and
-  Information Science, 2013  
-
-*Canadian Association for Information Science (CAIS), 2010 -- 2013*  
-
-*Kentucky Library Association (KLA), 2013 -- Present*
+##### Kentucky Library Association (KLA), 2013 -- Present
 
 ### Peer Reviewer
 
