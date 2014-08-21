@@ -298,6 +298,7 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 **Committees**
 
+- Member, Nominating Committee, 2015 -- 2016
 - Member, Centennial Celebration Committee, 2013 -- 2015
 - Member, Nominating Committee, 2014 -- 2015
 - Chair, Award for Professional Contribution to Library and Information Science, 2013 -- 2014  
