@@ -27,12 +27,7 @@ On [May 20, 2014](/blog/2013/11/20/peerj-research-9/), I collected what I
 thought would be the final round of data. However, after exploring the data I
 decided that a better picture of the growth of this journal's first year would
 require one more round of data in order to have four intervals to examine, or a
-full year's worth of changes. The intervals are:
-
-- Interval 1: Aug 20, 2013 to Nov 20, 2013
-- Interval 2: Nov 20, 2013 to Feb 20, 2014
-- Interval 3: Feb 20, 2014 to May 20, 2014
-- Interval 4: May 20, 2014 to Aug 20, 2014
+full year's worth of changes.
 
 What I'll likely do is continue collecting data on this sample in order to have
 a long run view of the changes.
