@@ -104,7 +104,7 @@ Post-print: [http://hdl.handle.net/10355/15760](http://hdl.handle.net/10355/1576
 **Burns**, C. S. (2011). Social justice and an information
 democracy with free and open source software. *Information,
 Society and Justice, 4*(2), 19-28. URL:
-[http://goo.gl/4AaDS](http://goo.gl/4AaDS).
+[http://works.bepress.com/cseanburns/8/](http://works.bepress.com/cseanburns/8/)
 
 Smith, C., &amp; **Burns**, C. S. (2011). The First International
 Workshop on Opportunistic Discovery of Information. *Information
