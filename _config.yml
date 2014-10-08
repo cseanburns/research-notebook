@@ -2,22 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-<<<<<<< HEAD
 url: http://www.cseanburns.net/journal
 title: Research Notebook
 subtitle: C. Sean Burns, PhD, Library and Information Science 
 author: C. Sean Burns
-#simple_search: http://google.com/search
-simple_search: https://www.google.com/
-description: A personal notebook and journal for research projects in library and information science
-=======
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
 simple_search: https://www.google.com/search
-description:
->>>>>>> c434de5977c316c8406c00bb24221fa61ca8fe88
+description: A personal research notebook and journal library and information science
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
