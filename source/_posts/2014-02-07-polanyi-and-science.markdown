@@ -71,7 +71,7 @@ just by its truthfulness, its coherence, but also by whether it's
 In later posts, I'll write more about the commensurability issue -- as it
 relates to Polanyi's description of tacit knowledge.
 
-Revision date: 2015-01-21 17:09
+Revision date: [2015-01-21][9]
 
 **References**
 
@@ -101,4 +101,5 @@ doi:[http://dx.doi.org/10.1038/nchem.1149][8]
 [6]: /blog/2013/10/23/reading-rober-k-merton-matthew-effect/ 
 [7]: http://www.worldcat.org/isbn/0226672980
 [8]: http://dx.doi.org/10.1038/nchem.1149
+[9]: https://github.com/seancsb/research-notebook/commit/ec1d76115f453ed5f2a5b4a6db547659cae569e0
 
