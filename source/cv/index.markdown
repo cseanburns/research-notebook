@@ -82,6 +82,10 @@ Repository](http://uknowledge.uky.edu/slis_facpub/8/)
 
 ### Refereed Journal Articles
 
+Fox, C. W., &amp; **Burns**, C. S. (in-press). The relationship between
+manuscript title structure and success: Editorial decisions and citation
+performance for an ecological journal. *Ecology and Evolution*.
+
 **Burns**, C. S. (2014). Academic libraries and automation. A
 historical reflection on Ralph Halstead Parker. *portal: Libraries
 and the Academy, 14*(1), 87-102. URL:
@@ -125,6 +129,10 @@ doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
 
 ### Refereed Proceedings Papers
 
+VanScoy, A., &amp; **Burns**, C. S. (forthcoming). Time in the experience of
+reference and information service work. *Proceedings of the Annual
+Conference of CAIS/Actes du congrès annuel de l'ACSI*.
+
 Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
 conversation in Twitter: A case study of chatterboxing.
 *Proceedings of the American Society for Information Science &amp;
@@ -132,6 +140,11 @@ Technology, 49*(1), 1-11.
 doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
 Conference site:
 [http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
+
+**Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012). Institutional
+repositories: Costs and benefits. *Proceedings of the Annual Conference of
+CAIS/Actes du congrès annuel de l'ACSI*. URL:
+[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/621)
 
 ### Other Professional Publications
 
@@ -161,12 +174,6 @@ products of communication. Proceedings of the Association for
 Information Science &amp; Technology. URL:
 [http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf](http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf)
 
-**Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012).
-Institutional repositories: Costs and benefits. 40th Annual
-Conference of the Canadian Association for Information Science
-(CAIS), Waterloo, Ontario, Canada, May - June, 2012.
-URL: [http://www.cais-acsi.ca/proceedings/2012/caisacsi2012_10_burns.pdf](http://www.cais-acsi.ca/proceedings/2012/caisacsi2012_10_burns.pdf)
-
 **Burns**, C. S., &amp; Altman, M. C. (2012). Who or what is
 constrained by the Library Bill of Rights? A theoretical analysis
 of intentionality and collective action for library and
@@ -182,12 +189,11 @@ Research Round Table's (LRRT) Four Star Research Forum at the 2011
 American Library Association (ALA) Annual Conference and
 Exhibition, New Orleans, Louisiana, USA, June 2011.
 
-**Burns**, C. S. (2011). Collecting bibliographic references: A
-bibliometric analysis of CiteULike's collection as grounds for in-depth
-interviews. A Research Round Table presentation at the 39th Annual
-Conference of the Canadian Association for Information Science (CAIS),
-Fredericton, New Brunswick, Canada, June, 2011.
-URL: [http://www.cais-acsi.ca/proceedings/2011/74_burns.pdf](http://www.cais-acsi.ca/proceedings/2011/74_burns.pdf)
+**Burns**, C. S. (2011). Collecting bibliographic references: A bibliometric
+analysis of CiteULike's collection as grounds for in-depth interviews. A
+Research Round Table discussion. *Proceedings of the Annual Conference of
+CAIS/Actes du congrès annuel de l'ACSI*. URL:
+[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/249)
 
 **Burns**, C. S. (2011). Ralph H. Parker and the history of library
 automation. A Historical Perspectives Special Interest Group
@@ -261,10 +267,10 @@ doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.145046035
 
 ### University of Kentucky, as Assistant Professor
 
-IS 201: General Information Sources, Fall 2014, Summer 2014, Fall 2013  
+IS/ICT 201: General Information Sources, Spring 2015, Fall 2014, Summer 2014, Fall 2013  
 LIS 601: Information Seeking, Fall 2013  
 LIS 621: Introduction to Information Services, Fall 2014  
-LIS 658: Knowledge Management, Spring 2014  
+LIS 658: Knowledge Management, Spring 2015, Spring 2014  
 
 ### University of Missouri, as Course Instructor
 
