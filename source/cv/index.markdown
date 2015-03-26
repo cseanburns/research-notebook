@@ -82,6 +82,9 @@ Repository](http://uknowledge.uky.edu/slis_facpub/8/)
 
 ### Refereed Journal Articles
 
+**Burns, C. S.** (in-submission). Characteristics of a megajournal: A
+bibliometric case study.
+
 Fox, C. W., &amp; **Burns**, C. S. (in-press). The relationship between
 manuscript title structure and success: Editorial decisions and citation
 performance for an ecological journal. *Ecology and Evolution*.
