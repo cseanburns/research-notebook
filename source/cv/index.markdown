@@ -85,6 +85,10 @@ Repository](http://uknowledge.uky.edu/slis_facpub/8/)
 **Burns, C. S.** (in-submission). Characteristics of a megajournal: A
 bibliometric case study.
 
+Kim, Y., &amp; **Burns**, C. S. (in-submission). Roles of metadata, data
+repository, and journal and funding requirements: Influences on norm of data
+sharing and its behaviors in biological sciences.
+
 Fox, C. W., &amp; **Burns**, C. S. (in-press). The relationship between
 manuscript title structure and success: Editorial decisions and citation
 performance for an ecological journal. *Ecology and Evolution*.
