@@ -76,9 +76,9 @@ Stephens Library, Stephens College
 **Burns**, C. S. (2014). Academic libraries and open access
 strategies. In D. Williams &amp; J. Golden (Eds.), *Advances in
 Library Administration and Organization, 32*, pp. 147-211.
-doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003);
-[Post-print OA copy: UKnowledge Institutional
-Repository](http://uknowledge.uky.edu/slis_facpub/8/)
+
+doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003)  
+[Open Access copy](http://uknowledge.uky.edu/slis_facpub/8/)  
 
 ### Refereed Journal Articles
 
@@ -89,50 +89,59 @@ Kim, Y., &amp; **Burns**, C. S. (in-submission). Roles of metadata, data
 repository, and journal and funding requirements: Influences on norm of data
 sharing and its behaviors in biological sciences.
 
-Fox, C. W., &amp; **Burns**, C. S. (in-press). The relationship between
+Fox, C. W., &amp; **Burns**, C. S. (2015). The relationship between
 manuscript title structure and success: Editorial decisions and citation
 performance for an ecological journal. *Ecology and Evolution*.
 
+doi:[10.1002/ece3.1480](http://dx.doi.org/10.1002/ece3.1480)  
+
 **Burns**, C. S. (2014). Academic libraries and automation. A
 historical reflection on Ralph Halstead Parker. *portal: Libraries
-and the Academy, 14*(1), 87-102. URL:
-[http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html);
-[Open access copy: UKnowledge Institutional Repository](http://uknowledge.uky.edu/slis_facpub/6/)
+and the Academy, 14*(1), 87-102.
+
+[http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html](http://muse.jhu.edu/journals/portal_libraries_and_the_academy/v014/14.1.burns.html)  
+[Open access copy](http://uknowledge.uky.edu/slis_facpub/6/)  
 
 Adkins, D., &amp; **Burns**, C. S. (2013). Arizona public
 libraries serving the Spanish-speaking: Context for changes.
 *Reference and User Services Quarterly, 53*(1), 60-70.
-URL: [http://rusa.metapress.com/content/j3p25116j240811u/](http://rusa.metapress.com/content/j3p25116j240811u/);
-[Open access copy: UKnowledge Institutional
-Repository](http://uknowledge.uky.edu/slis_facpub/5)
+
+[http://rusa.metapress.com/content/j3p25116j240811u/](http://rusa.metapress.com/content/j3p25116j240811u/)  
+[Open Access copy](http://uknowledge.uky.edu/slis_facpub/5)  
 
 **Burns**, C. S. &amp; Bossaller, J. (2012). Communication
 overload: A phenomenological inquiry into academic reference
 librarianship. *Journal of Documentation, 68*(5), 597-617.
-doi:[10.1108/00220411211255996](http://dx.doi.org/10.1108/00220411211255996);
-Post-print: [http://hdl.handle.net/10355/15760](http://hdl.handle.net/10355/15760)
+
+doi:[10.1108/00220411211255996](http://dx.doi.org/10.1108/00220411211255996)  
+[Open Access copy](http://hdl.handle.net/10355/15760)  
 
 **Burns**, C. S. (2011). Social justice and an information
 democracy with free and open source software. *Information,
-Society and Justice, 4*(2), 19-28. URL:
-[http://works.bepress.com/cseanburns/8/](http://works.bepress.com/cseanburns/8/)
+Society and Justice, 4*(2), 19-28.
+
+[Open Access copy](http://works.bepress.com/cseanburns/8/)  
 
 Smith, C., &amp; **Burns**, C. S. (2011). The First International
 Workshop on Opportunistic Discovery of Information. *Information
-Research: An International Electronic Journal, 16*(3). URL:
-[http://informationr.net/ir/16-3/paper490.html](http://informationr.net/ir/16-3/paper490.html).
+Research: An International Electronic Journal, 16*(3).
+
+[http://informationr.net/ir/16-3/paper490.html](http://informationr.net/ir/16-3/paper490.html)  
 
 Chen, H., Kochtanek, T., **Burns**, C., &amp; Shaw, R. (2010).
 Analyzing users' retrieval behaviors and image queries of a
 photojournalism image database. *The Canadian Journal of
 Information and Library Science, 34*(3), 249-268.
-doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
+
+doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)  
 
 ### Moderated Journal Articles
 
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (January/February
 2013). Institutional repositories: Exploration of costs and value.
-*D-Lib Magazine, 19*(1/2). doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)
+*D-Lib Magazine, 19*(1/2).
+
+doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)  
 
 ### Refereed Proceedings Papers
 
@@ -144,21 +153,23 @@ Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
 conversation in Twitter: A case study of chatterboxing.
 *Proceedings of the American Society for Information Science &amp;
 Technology, 49*(1), 1-11.
-doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185);
-Conference site:
-[http://asis.org/asist2012/proceedings/Submissions/185.pdf](http://asis.org/asist2012/proceedings/Submissions/185.pdf)
+
+doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185)  
+[Conference site](http://asis.org/asist2012/proceedings/Submissions/185.pdf)  
 
 **Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012). Institutional
 repositories: Costs and benefits. *Proceedings of the Annual Conference of
-CAIS/Actes du congrès annuel de l'ACSI*. URL:
-[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/621)
+CAIS/Actes du congrès annuel de l'ACSI*.
+
+[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/621)  
 
 ### Other Professional Publications
 
 Adkins, D., &amp; **Burns**, C. S. (2011, December 15). How do
 Arizona's public libraries serve the Spanish-speaking? REFORMA
-Newsletter. URL:
-[http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36](http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36)  
+Newsletter.
+
+[REFORMA](http://www.reforma.org/article_content.asp?edition=2&amp;section=1&amp;article=36)  
 
 ### Technical Reports
 
@@ -178,8 +189,9 @@ Annual Conference, Philadelphia, Pennsylvania, USA, January, 2014.
 Budd, J. M., **Burns**, C. S., &amp; Moulaison, H. M. (2013).
 High-stakes information: Deciding what constitutes quality in our
 products of communication. Proceedings of the Association for
-Information Science &amp; Technology. URL:
-[http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf](http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf)
+Information Science &amp; Technology.
+
+[http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf](http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf)  
 
 **Burns**, C. S., &amp; Altman, M. C. (2012). Who or what is
 constrained by the Library Bill of Rights? A theoretical analysis
@@ -187,7 +199,8 @@ of intentionality and collective action for library and
 information science. 2012 Association for Library and Information
 Science Education (ALISE) Annual Conference, Dallas, Texas, USA,
 January, 2012.
-URL: [http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf](http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf)
+
+[http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf](http://www.alise.org/assets/documents/juried%20papers%20abstract.pdf)  
 
 **Burns**, C. S., &amp; Bossaller, J. (2011). Experiencing
 communication overload: A phenomenological study of academic
@@ -200,7 +213,8 @@ Exhibition, New Orleans, Louisiana, USA, June 2011.
 analysis of CiteULike's collection as grounds for in-depth interviews. A
 Research Round Table discussion. *Proceedings of the Annual Conference of
 CAIS/Actes du congrès annuel de l'ACSI*. URL:
-[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/249)
+
+[http://www.cais-acsi.ca/ojs/index.php/cais/article/view/249](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/249)  
 
 **Burns**, C. S. (2011). Ralph H. Parker and the history of library
 automation. A Historical Perspectives Special Interest Group
@@ -212,18 +226,21 @@ January, 2011.
 strategies: A game theoretical approach to a historical
 investigation of an academic library. Library Research Seminar V
 (LRS V), College Park, Maryland, USA, October, 2010.
-URL: [http://www.lrsv.umd.edu/abstracts/Burns.pdf](http://www.lrsv.umd.edu/abstracts/Burns.pdf)
+
+[http://www.lrsv.umd.edu/abstracts/Burns.pdf](http://www.lrsv.umd.edu/abstracts/Burns.pdf)  
 
 Sample, A., **Burns**, C. S., &amp; Budd, J. M. (2010). Exploring
 intentional information evaluation: Students' assessment of
 complex issues.  Library Research Seminar V (LRS V), College Park,
 Maryland, USA, October, 2010.
-URL: [http://www.lrsv.umd.edu/abstracts/Budd.pdf](http://www.lrsv.umd.edu/abstracts/Budd.pdf)
+
+[http://www.lrsv.umd.edu/abstracts/Budd.pdf](http://www.lrsv.umd.edu/abstracts/Budd.pdf)  
 
 **Burns**, C. S. (2010). An analysis of bibliographic references
 collected by a social computing group. Connections 2010, London,
 Ontario, Canada, May, 2010.
-URL: [http://ir.lib.uwo.ca/connections/May15/Presentations/3](http://ir.lib.uwo.ca/connections/May15/Presentations/3)  
+
+[http://ir.lib.uwo.ca/connections/May15/Presentations/3](http://ir.lib.uwo.ca/connections/May15/Presentations/3)  
 
 ### Other Conference Presentations
 
@@ -239,10 +256,15 @@ London Borough of Barking &amp; Dagenham, United Kingdom, August,
 
 ### Invited Talks
 
+**Burns**, C. S., &amp; Fox, C. W. (2015). Patterns of bias or partiality in
+editorial and peer review. University of Kentucky, College of Communication
+and Information Research Seminar Series.
+
 **Burns**, C. S. (2013). #Altmetrics: Background and Overview.
 Open Access Week, University of Kentucky Libraries, Lexington,
 Kentucky. October 22, 2013.
-[Slides](http://uknowledge.uky.edu/oaweek2013/Program/Events/3/).
+
+[Slides](http://uknowledge.uky.edu/oaweek2013/Program/Events/3/)  
 
 **Burns**, C. S. (2011). Emerging technologies in scholarly
 communication.  In Dr. Heather L. Moulaison's ISLT 9410 Seminar:
@@ -254,7 +276,10 @@ Emerging Technologies in Libraries, Columbia, Missouri, USA, November, 2011.
 scholarly content: Impact on academic libraries. Doctoral student
 research poster session presented at the 2013 Association for Library
 and Information Science Education (ALISE) Annual Conference, Seattle,
-Washington, USA, January, 2013. URL: [http://hdl.handle.net/10355/16178](http://hdl.handle.net/10355/16178) and URL [Abstract](http://www.alise.org/assets/documents/conf_2013/abstracts/2013%20doctoral-poster%20session.pdf).
+Washington, USA, January, 2013.
+
+[http://hdl.handle.net/10355/16178](http://hdl.handle.net/10355/16178)  
+[Abstract](http://www.alise.org/assets/documents/conf_2013/abstracts/2013%20doctoral-poster%20session.pdf)  
 
 **Burns**, C. S. (2010, January). Social computing and citation
 analysis: Identifying future scholarly impact. Works-in-progress poster
@@ -268,7 +293,8 @@ analytics approach. Poster session presented at the 72nd American
 Society for Information Science and Technology (ASIS&amp;T).
 Abstract in the Proceedings of the American Society for
 Information Science and Technology, 46(1), 1-5.
-doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.1450460359).  
+
+doi:[10.1002/meet.2009.1450460359](http://dx.doi.org/10.1002/meet.2009.1450460359)  
 
 ## TEACHING
 
@@ -300,8 +326,6 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 
 #### Memberships
 
-##### American Library Association (ALA), 2008-present
-
 ##### Association for Information Science &amp; Technology (ASIS&amp;T), 2009 -- Present
 
 - Membership Officer, SIG-MET, 2013 -- 2014
@@ -323,12 +347,16 @@ ISLT 9423: Ethics and Information, with Dr. John M. Budd, Fall 2010
 - Convener, Historical Perspectives Special Interest Group, with Ellen M. Pozzi, 2013 -- 2014
 - Convener, Historical Perspectives Special Interest Group,with Ellen M. Pozzi, 2012 -- 2013 
 
-##### Canadian Association for Information Science (CAIS), 2010 -- 2013
+#### Past memberships
 
-##### Kentucky Library Association (KLA), 2013 -- Present
+American Library Association (ALA), 2008 -- 2015  
+Canadian Association for Information Science (CAIS), 2010 -- 2013  
+Kentucky Library Association (KLA), 2013 -- 2015  
 
 ### Peer Reviewer
 
+Journal of Information Science Theory and Practice
+iConference, Papers, 2015
 iConference, Posters, 2014  
 SIG-MET ASIS&amp;T, Workshop Student Contest, 2013  
 Library Student Journal, 2009 -- 2011  
