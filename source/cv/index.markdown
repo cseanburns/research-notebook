@@ -30,13 +30,9 @@ Ph.D., Information Science &amp; Learning Technologies, Emphasis
 in Library and Information Science, Supporting Field in
 Philosophy, May 2013
 
-- Dissertation: [Free or Open Access to Scholarly Documentation:
-  Google Scholar or Academic Libraries](http://hdl.handle.net/10355/37582)  
-
-- Advisor: John M. Budd  
-
-- Beta Phi Mu: Eugene Garfield Doctoral Dissertation Fellowship,
-  2012  
+- Dissertation: [Free or Open Access to Scholarly Documentation: Google Scholar or Academic Libraries](http://hdl.handle.net/10355/37582)
+- Advisor: John M. Budd
+- Beta Phi Mu: Eugene Garfield Doctoral Dissertation Fellowship, 2012
 
 M.A., Information Science &amp; Learning Technologies, Emphasis Library Science, ALA Accredited, May 2009
 
@@ -71,18 +67,12 @@ Stephens Library, Stephens College
 
 ## PUBLICATIONS
 
-### Book Chapters
-
-**Burns**, C. S. (2014). Academic libraries and open access
-strategies. In D. Williams &amp; J. Golden (Eds.), *Advances in
-Library Administration and Organization, 32*, pp. 147-211.
-
-doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003)  
-[Open Access copy](http://uknowledge.uky.edu/slis_facpub/8/)  
-
 ### Refereed Journal Articles
 
-**Burns, C. S.** (in-submission). Characteristics of a megajournal: A
+Fox, C. W., **Burns**, C. S., &amp; Meyer, J. A. (in-submission). Editor and
+reviewer gender influence the peer review process at an ecological journal.
+
+**Burns**, C. S. (in-submission). Characteristics of a megajournal: A
 bibliometric case study.
 
 Kim, Y., &amp; **Burns**, C. S. (in-submission). Roles of metadata, data
@@ -143,11 +133,16 @@ doi:[10.1353/ils.2010.0003](http://dx.doi.org/10.1353/ils.2010.0003)
 
 doi:[10.1045/january2013-burns](http://dx.doi.org/10.1045/january2013-burns)  
 
-### Refereed Proceedings Papers
+### Book Chapters
 
-VanScoy, A., &amp; **Burns**, C. S. (forthcoming). Time in the experience of
-reference and information service work. *Proceedings of the Annual
-Conference of CAIS/Actes du congrès annuel de l'ACSI*.
+**Burns**, C. S. (2014). Academic libraries and open access
+strategies. In D. Williams &amp; J. Golden (Eds.), *Advances in
+Library Administration and Organization, 32*, pp. 147-211.
+
+doi:[10.1108/S0732-067120140000032003](http://dx.doi.org/10.1108/S0732-067120140000032003)  
+[Open Access copy](http://uknowledge.uky.edu/slis_facpub/8/)  
+
+### Refereed Proceedings Papers
 
 Moulaison, H., &amp; **Burns**, C. S. (2012). Organization or
 conversation in Twitter: A case study of chatterboxing.
@@ -156,12 +151,6 @@ Technology, 49*(1), 1-11.
 
 doi:[10.1002/meet.14504901185](http://dx.doi.org/10.1002/meet.14504901185)  
 [Conference site](http://asis.org/asist2012/proceedings/Submissions/185.pdf)  
-
-**Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012). Institutional
-repositories: Costs and benefits. *Proceedings of the Annual Conference of
-CAIS/Actes du congrès annuel de l'ACSI*.
-
-[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/621)  
 
 ### Other Professional Publications
 
@@ -181,6 +170,10 @@ site: Final report. Missouri Department of Transportation, Project #RI07-040
 
 ### Refereed Conference Abstracts
 
+VanScoy, A., &amp; **Burns**, C. S. (forthcoming). Time in the experience of
+reference and information service work. *Proceedings of the Annual
+Conference of CAIS/Actes du congrès annuel de l'ACSI*.
+
 **Burns**, C. S. (2014). The scholarly journal and disciplinary
 identity: An autoethnographic reading of *The Library Quarterly*.
 2014 Association for Library and Information Science (ALISE)
@@ -192,6 +185,12 @@ products of communication. Proceedings of the Association for
 Information Science &amp; Technology.
 
 [http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf](http://asis.org/asist2013/proceedings/submissions/panels/36panel.pdf)  
+
+**Burns**, C. S., Lana, A., &amp; Budd, J. M. (2012). Institutional
+repositories: Costs and benefits. *Proceedings of the Annual Conference of
+CAIS/Actes du congrès annuel de l'ACSI*.
+
+[Abstract/PDF](http://www.cais-acsi.ca/ojs/index.php/cais/article/view/621)  
 
 **Burns**, C. S., &amp; Altman, M. C. (2012). Who or what is
 constrained by the Library Bill of Rights? A theoretical analysis
@@ -382,12 +381,12 @@ Eugene Garfield Doctoral Dissertation Fellowship - Beta Phi Mu, 2012
 TA Choice Award, Awarded by the Missouri Students Association of the
 University of Missouri, Spring 2013
 
-C. Edward &amp; Greta S. Carroll School of Information Science
-&amp; Learning Technologies Unrestricted Endowment, Awarded by the
-University of Missouri College of Education, 2012 -- 2013
+C\. Edward &amp; Greta S. Carroll School of Information Science &amp;
+Learning Technologies Unrestricted Endowment, Awarded by the University of
+Missouri College of Education, 2012 -- 2013
 
-Doris J. Athy Scholarship, Awarded by the University of Missouri,
-College of Education, 2011 -- 2012
+Doris J. Athy Scholarship, Awarded by the University of Missouri, College of
+Education, 2011 -- 2012
 
 H.W. Wilson Foundation / Library Science Development Scholarship,
 Awarded by the University of Missouri College of Education, 2009
@@ -403,9 +402,9 @@ Awarded by the University of Missouri College of Education, 2008
 Bryce Allen Memorial Scholarship, Awarded by the University of
 Missouri College of Education, 2008 -- 2009
 
-C. Edward &amp; Greta S. Carroll School of Information Science
-&amp; Learning Technologies Unrestricted Endowment, Awarded by the
-University of Missouri College of Education, 2008 -- 2009
+C\. Edward &amp; Greta S. Carroll School of Information Science &amp;
+Learning Technologies Unrestricted Endowment, Awarded by the University of
+Missouri College of Education, 2008 -- 2009
 
 Bryce Allen Memorial Scholarship, Awarded by the University of
 Missouri College of Education, 2007 -- 2008  
