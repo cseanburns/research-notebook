@@ -44,13 +44,13 @@ B.A., Philosophy &amp; Religious Studies, English, May 1996
 
 ## EXPERIENCE
 
-08/2013 to Present: Assistant Professor, School of Library and Information Science, University of Kentucky  
-08/2011 to 05/2013: Course Instructor, School of Information Science and Learning Technologies, University of Missouri  
-08/2011 to 05/2012: Technical Services and Cataloging Assistant Librarian, Hugh Stephens Library, Stephens College  
-08/2009 to 05/2013: Graduate Teaching Assistant, School of Information Science and Learning Technologies, University of Missouri  
-01/2008 to 08/2009: Graduate Research Assistant, Pictures of the Year International, University of Missouri  
-12/2007 to 02/2008: Graduate Research Assistant, Missouri Department of Transportation, University of Missouri  
-08/2007 to 05/2009: Evening and Weekend Reference Librarian, Hugh Stephens Library, Stephens College  
+- 08/2013 to Present: Assistant Professor, School of Library and Information Science, University of Kentucky  
+- 08/2011 to 05/2013: Course Instructor, School of Information Science and Learning Technologies, University of Missouri  
+- 08/2011 to 05/2012: Technical Services and Cataloging Assistant Librarian, Hugh Stephens Library, Stephens College  
+- 08/2009 to 05/2013: Graduate Teaching Assistant, School of Information Science and Learning Technologies, University of Missouri  
+- 01/2008 to 08/2009: Graduate Research Assistant, Pictures of the Year International, University of Missouri  
+- 12/2007 to 02/2008: Graduate Research Assistant, Missouri Department of Transportation, University of Missouri  
+- 08/2007 to 05/2009: Evening and Weekend Reference Librarian, Hugh Stephens Library, Stephens College  
 
 ## PUBLICATIONS
 
@@ -337,6 +337,9 @@ Society, Invited 2014
 Eugene Garfield Doctoral Dissertation Fellowship - Beta Phi Mu, 2012  
 
 ### University
+
+Teacher Who Made a Difference, Awarded by the University of Kentucky,
+College of Education, Spring 2015
 
 TA Choice Award, Awarded by the Missouri Students Association of the
 University of Missouri, Spring 2013
