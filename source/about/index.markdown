@@ -9,8 +9,9 @@ footer: true
 
 [Curriculum Vitae](https://cseanburns.net/wiki/doku.php?id=cv)
 
+
 I am an assistant professor at the [University of Kentucky][1]'s [School of
-Library and Information Science][2]. My research interests include academic
+Information Science][2]. My research interests include academic
 libraries, scholarly communication, librarianship, library and information
 science ethics and history, and research methods and methodologies. I'm
 particularly interested in those phenomena that have substantial impact on
@@ -30,10 +31,8 @@ Old posts from a previous blogging platform but with this same domain were
 transferred to
 [http://cseanburns.blogspot.com/](http://cseanburns.blogspot.com/).
 
-I am still considering whether I want to add a commenting system to this
-site (e.g., disqus), and if so, which commenting system. In the meantime, if
-you would like to respond to any of my posts, please feel free to email me
-(sean.burns@uky.edu) or ping me on twitter at
+If you would like to respond to any of my posts, please feel free to email
+me (sean.burns@uky.edu) or ping me on twitter at
 [@burnscsb](https://twitter.com/burnscsb).
 
 [1]: http://www.uky.edu
