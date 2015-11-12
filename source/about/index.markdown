@@ -7,18 +7,16 @@ sharing: true
 footer: true
 ---
 
-[Curriculum Vitae](https://cseanburns.net/wiki/doku.php?id=cv)
-
+* [Curriculum Vitae](http://cseanburns.net/wiki/doku.php?id=cv)
+* [General Notebook](http://cseanburns.net/wiki/)
 
 I am an assistant professor at the [University of Kentucky][1]'s [School of
-Information Science][2]. My research interests include academic
-libraries, scholarly communication, librarianship, library and information
-science ethics and history, and research methods and methodologies. I'm
-particularly interested in those phenomena that have substantial impact on
-academic libraries and librarianship. For example, how do trends, behaviors,
-practices, norms, and so forth impact academic libraries and librarians? I'm
-currently working on a research project related to peer review and another
-project related to the history of library science.
+Information Science][2]. My research interests include academic libraries,
+scholarly communication, librarianship, and library and information science
+ethics and history. I'm particularly interested in those phenomena that have
+substantial impact on academic libraries and librarianship. For example, how
+do scientific/scholarly trends, behaviors, practices, norms, and so forth
+impact academic libraries and librarians?
 
 The motivation for this site is to keep a public log of my research notes
 (at least anything that can be shared with the public, such as notes on
