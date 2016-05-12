@@ -30,8 +30,8 @@ Twitter variable *replyToSN* only shows that it's a reply to @sharon000
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thus, it was a nice surprise to read about the new [tidytext][3] package,
-authored by Gabriela De Queiroz, David Robinson, and Julia Silge, and
-demonstrated on [Silge's blog][4]. When I read about this package, my
+authored by Gabriela De Queiroz, [David Robinson][6], and [Julia Silge][7],
+and demonstrated on [Silge's blog][4]. When I read about this package, my
 immediate thought was that it would make it much easier to parse the text of
 the tweets for all the account information. That is, I could use it to
 tokenize each tweet and associate each token to the respective account name.
@@ -50,9 +50,9 @@ the steps include:
 I still have a lot to learn, generally, about SNA. Plus, I'm not sure yet if
 the process here captures the entire network. I also need to better
 understand the igraph package (it'll help if I work with more standard
-data). Later, I'll tackle the [ggraph package][5]) for creating nicer
-looking plots, but so far, here's what I've been able to do. The following
-code analyzes recent tweets containing the hashtag **#rstats**:
+data). Later, I'll tackle the [ggraph package][5] for creating nicer looking
+plots, but so far, here's what I've been able to do. The following code
+analyzes recent tweets containing the hashtag **#rstats**:
 
     library(twitteR)
     library(dplyr)
@@ -124,8 +124,6 @@ question asked of the data), and then recreating the plot:
     set.seed(1234)
     plot(graph_from_data_frame(rtalk.at2))
 
-    g <- graph.edgelist(rtalk.at2)
-
 ![alt
 text](https://dl.dropboxusercontent.com/u/55752964/octopress/sna-rstats-clean.png
 "Cleaner SNA Plot of #rstat tweets")
@@ -139,3 +137,5 @@ to make sure this is a valid approach. Any comments welcome.
 [3]: https://cran.r-project.org/web/packages/tidytext/index.html 
 [4]: http://juliasilge.com/blog/Life-Changing-Magic/
 [5]: https://github.com/thomasp85/ggraph
+[6]: https://twitter.com/drob
+[7]: https://twitter.com/juliasilge
