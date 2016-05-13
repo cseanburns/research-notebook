@@ -15,16 +15,14 @@ terms rather than actors (or Twitter users), for example, see
 do look at actors, the examples are incomplete in some way and are thus
 difficult to apply (well, maybe for a newbie like me), especially to the
 kind of data that we are able to extract from the Twitter API using the
-popular twitteR package:
-[https://cran.r-project.org/web/packages/twitteR/README.html][2]. This data
-does provide account information, such as the screen name of the tweeter as
-well who that tweeter is replying to (see *replyToSN* variable in Twitter
-source data), if they are replying, but it only records the first Twitter
-account mentioned in the tweet and not all the accounts the tweet is
-replying to, if the tweet includes multiple accounts. For example, the
-following tweet by @jaimedash is a reply to @sharon000 and @calli993 but the
-Twitter variable *replyToSN* only shows that it's a reply to @sharon000
-(this tweet was picked randomly).
+popular [twitteR package][2]. This data does provide account information,
+such as the screen name of the tweeter as well who that tweeter is replying
+to (see *replyToSN* variable in Twitter source data), if they are replying,
+but it only records the first Twitter account mentioned in the tweet and not
+all the accounts the tweet is replying to, if the tweet is replying to
+multiple accounts. For example, the following #rstats tweet by @jaimedash is
+a reply to @sharon000 and @calli993 but the Twitter variable *replyToSN*
+only shows that it's a reply to @sharon000 (this tweet was picked randomly).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/sharon000">@sharon000</a> <a href="https://twitter.com/calli993">@calli993</a> another option to upgrade <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> easily is installr <a href="https://t.co/Ua9JSxnDDj">https://t.co/Ua9JSxnDDj</a></p>&mdash; Jaime Ashander (@jaimedash) <a href="https://twitter.com/jaimedash/status/730497939143974913">May 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -58,7 +56,6 @@ analyzes recent tweets containing the hashtag **#rstats**:
     library(dplyr)
     library(igraph)
     library(tidytext)
-    library(knitr)
 
     consumer_key     <- "[enter consumer_key here]"
     consumer_secret  <- "[enter consumer_secret here]"
@@ -83,14 +80,18 @@ analyzes recent tweets containing the hashtag **#rstats**:
 
     # Save tweets and screen names
     rtalk.ts <- data.frame(rtalk$text, rtalk$screenName)
+
     # Rename variables
     names(rtalk.ts) <- c("text", "screenName")
+
     # Convert tweets to character class
     rtalk.ts$text <- as.character(rtalk.ts$text)
 
     # for each user's tweet, split into component tokens and save in new df
     rtalk.at <- rtalk.ts %>% unnest_tokens(accounts, text)
+
     rtalk.at$screenName<- as.character(rtalk.at$screenName)
+
     # keep only tokens (parts of tweets) that were screen names
     rtalk.at <- filter(rtalk.at, accounts %in% keepWords)
 
@@ -107,16 +108,20 @@ question asked of the data), and then recreating the plot:
 
     # Since the network is too crowded, start over and remove all retweets
     rtalk2 <- filter(rtalk, isRetweet == FALSE)
+
     rtalk.ts2 <- data.frame(rtalk2$text, rtalk2$screenName)
 
     # Rename variables
     names(rtalk.ts2) <- c("text", "screenName")
+
     # Convert tweets to character class
     rtalk.ts2$text <- as.character(rtalk.ts2$text)
 
     # for each user's tweet, split  into component tokens and save in new df
     rtalk.at2 <- rtalk.ts2 %>% unnest_tokens(accounts, text)
+
     rtalk.at2$screenName<- as.character(rtalk.at2$screenName)
+
     # keep only tokens (parts of tweets) that were screen names
     rtalk.at2 <- filter(rtalk.at2, accounts %in% keepWords)
 
